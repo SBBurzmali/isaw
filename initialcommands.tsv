@@ -1,0 +1,445 @@
+Faction	Type	Combat Command	Parent Command	Command TOE	Experience	Loyalty	Jumpships	Purchase RP	Supply Type	Supply Status	Supply RP	Fatigue	Morale	Experience Points	Location	Condition	Ground PV	Aerospace PV
+Federated Suns	Combat	1st Aragon Borderers	Aragon Borderers	Federated Suns Default	Veteran	Reliable	None Assigned	756	Non-Combat	In Supply	11	0	Normal (4)	21	New Aragon	100%	225	120
+Federated Suns	Combat	1st Argyle Lancers	Argyle Lancers	Federated Suns Default	Regular	Reliable	Attendant JumpShips	756	Non-Combat	In Supply	11	0	Normal (4)	13	Broken Wheel	100%	150	80
+Federated Suns	Combat	11th Avalon Hussars RCT	Avalon Hussars	Federated Suns Default	Regular	Reliable	Attendant JumpShips	756	Non-Combat	In Supply	11	0	Normal (4)	13	Kesai	100%	150	80
+Federated Suns	Combat	17th Avalon Hussars RCT	Avalon Hussars	Federated Suns Default	Regular	Reliable	None Assigned	378	Non-Combat	In Supply	11	0	Normal (4)	13	Cassias	100%	150	80
+Federated Suns	Combat	20th Avalon Hussars RCT	Avalon Hussars	Federated Suns Default	Veteran	Fanatical	Attendant JumpShips	2016	Non-Combat	In Supply	11	0	Normal (4)	21	New Aragon	100%	225	120
+Federated Suns	Combat	22nd Avalon Hussars RCT	Avalon Hussars	Federated Suns Default	Veteran	Reliable	Attendant JumpShips	1512	Non-Combat	In Supply	11	0	Normal (4)	21	Quentin	100%	225	120
+Federated Suns	Combat	33rd Avalon Hussars RCT	Avalon Hussars	Federated Suns Default	Veteran	Fanatical	None Assigned	1008	Non-Combat	In Supply	11	0	Normal (4)	21	Nopah	100%	225	120
+Federated Suns	Combat	39th Avalon Hussars RCT	Avalon Hussars	Federated Suns Default	Regular	Reliable	Attendant JumpShips	756	Non-Combat	In Supply	11	0	Normal (4)	13	Aucara	100%	150	80
+Federated Suns	Combat	41st Avalon Hussars RCT	Avalon Hussars	Federated Suns Default	Regular	Reliable	Attendant JumpShips	756	Non-Combat	In Supply	11	0	Normal (4)	13	David	100%	150	80
+Federated Suns	Combat	42nd Avalon Hussars RCT	Avalon Hussars	Federated Suns Default	Green	Reliable	None Assigned	189	Non-Combat	In Supply	11	0	Normal (4)	9	Fallon	100%	120	64
+Federated Suns	Combat	1st Capellan Dragoons	Capellan Dragoons	Federated Suns Default	Regular	Questionable	Attendant JumpShips	504	Non-Combat	In Supply	11	0	Normal (4)	13	Wernke	100%	150	80
+Federated Suns	Combat	1st Chisolm's Raiders RCT	Chisolm's Raiders	Federated Suns Default	Veteran	Reliable	Attendant JumpShips	1512	Non-Combat	In Supply	11	0	Normal (4)	21	Royal	100%	225	120
+Federated Suns	Combat	2nd Chisolm Raiders	Chisolm's Raiders	Federated Suns Default	Veteran	Fanatical	None Assigned	1008	Non-Combat	In Supply	11	0	Normal (4)	21	Kathil	100%	225	120
+Federated Suns	Combat	1st Crucis Lancers RCT	Crucis Lancers	Federated Suns Default	Veteran	Fanatical	Attendant JumpShips	2016	Non-Combat	In Supply	11	0	Normal (4)	21	Tancredi	100%	225	120
+Federated Suns	Combat	2nd Crucis Lancers RCT	Crucis Lancers	Federated Suns Default	Regular	Reliable	Attendant JumpShips	756	Non-Combat	In Supply	11	0	Normal (4)	13	Mira	100%	150	80
+Federated Suns	Combat	3rd Crucis Lancers RCT	Crucis Lancers	Federated Suns Default	Veteran	Reliable	None Assigned	756	Non-Combat	In Supply	11	0	Normal (4)	21	Caph	100%	225	120
+Federated Suns	Combat	4th Crucis Lancers RCT	Crucis Lancers	Federated Suns Default	Veteran	Reliable	Attendant JumpShips	1512	Non-Combat	In Supply	11	0	Normal (4)	21	Klathan	100%	225	120
+Federated Suns	Combat	5th Crucis Lancers RCT	Crucis Lancers	Federated Suns Default	Veteran	Fanatical	Attendant JumpShips	2016	Non-Combat	In Supply	11	0	Normal (4)	21	Kathil	100%	225	120
+Federated Suns	Combat	6th Crucis Lancers RCT	Crucis Lancers	Federated Suns Default	Veteran	Reliable	None Assigned	756	Non-Combat	In Supply	11	0	Normal (4)	21	Moravian	100%	225	120
+Federated Suns	Combat	7th Crucis Lancers RCT	Crucis Lancers	Federated Suns Default	Elite	Fanatical	Attendant JumpShips	4032	Non-Combat	In Supply	11	0	Normal (4)	31	Weekapaug	100%	300	160
+Federated Suns	Combat	8th Crucis Lancers RCT	Crucis Lancers	Federated Suns Default	Regular	Reliable	Attendant JumpShips	756	Non-Combat	In Supply	11	0	Normal (4)	13	New Rhodes	100%	150	80
+Federated Suns	Combat	1st Ceti Hussars RCT	Ceti Hussars	Federated Suns Default	Veteran	Reliable	None Assigned	756	Non-Combat	In Supply	11	0	Normal (4)	21	Glenmora	100%	225	120
+Federated Suns	Combat	2nd Ceti Hussars RCT	Ceti Hussars	Federated Suns Default	Veteran	Reliable	Attendant JumpShips	1512	Non-Combat	In Supply	11	0	Normal (4)	21	Verde	100%	225	120
+Federated Suns	Combat	3rd Ceti Hussars RCT	Ceti Hussars	Federated Suns Default	Regular	Reliable	Attendant JumpShips	756	Non-Combat	In Supply	11	0	Normal (4)	13	Immenstadt	100%	150	80
+Federated Suns	Combat	1st Davion Guards RCT	Davion Brigade of Guards	Federated Suns Default	Elite	Fanatical	None Assigned	2016	Non-Combat	In Supply	11	0	Normal (4)	31	New Avalon	100%	300	160
+Federated Suns	Combat	2nd Davion Guards RCT	Davion Brigade of Guards	Federated Suns Default	Veteran	Fanatical	Attendant JumpShips	2016	Non-Combat	In Supply	11	0	Normal (4)	21	Fomalhaut	100%	225	120
+Federated Suns	Combat	4th Davion Guards RCT	Davion Brigade of Guards	Federated Suns Default	Elite	Fanatical	Attendant JumpShips	4032	Non-Combat	In Supply	11	0	Normal (4)	31	Deshler	100%	300	160
+Federated Suns	Combat	5th Davion Guards RCT	Davion Brigade of Guards	Federated Suns Default	Veteran	Fanatical	None Assigned	1008	Non-Combat	In Supply	11	0	Normal (4)	21	Lee	100%	225	120
+Federated Suns	Combat	Davion Assault Guards RCT	Davion Brigade of Guards	Federated Suns Default	Veteran	Reliable	Attendant JumpShips	1512	Non-Combat	In Supply	11	0	Normal (4)	21	Frazer	100%	225	120
+Federated Suns	Combat	Davion Heavy Guards RCT	Davion Brigade of Guards	Federated Suns Default	Elite	Fanatical	Attendant JumpShips	4032	Non-Combat	In Supply	11	0	Normal (4)	31	New Avalon	100%	300	160
+Federated Suns	Combat	Davion Light Guards RCT	Davion Brigade of Guards	Federated Suns Default	Veteran	Reliable	None Assigned	756	Non-Combat	In Supply	11	0	Normal (4)	21	Groveld	100%	225	120
+Federated Suns	Combat	4th Deneb Light Cavvalry RCT	Deneb Light Cavalry	Federated Suns Default	Veteran	Reliable	Attendant JumpShips	1512	Non-Combat	In Supply	11	0	Normal (4)	21	Harrow's Sun	100%	225	120
+Federated Suns	Combat	5th Deneb Light Cavalry RCT	Deneb Light Cavalry	Federated Suns Default	Regular	Reliable	Attendant JumpShips	756	Non-Combat	In Supply	11	0	Normal (4)	13	Northwind	100%	150	80
+Federated Suns	Combat	8th Deneb Light Cavalry RCT	Deneb Light Cavalry	Federated Suns Default	Regular	Reliable	None Assigned	378	Non-Combat	In Supply	11	0	Normal (4)	13	Angol	100%	150	80
+Federated Suns	Combat	10th Deneb Light Cavalry RCT	Deneb Light Cavalry	Federated Suns Default	Green	Reliable	Attendant JumpShips	378	Non-Combat	In Supply	11	0	Normal (4)	9	Rowe	100%	120	64
+Federated Suns	Combat	12th Deneb Light Cavalry RCT	Deneb Light Cavalry	Federated Suns Default	Regular	Reliable	Attendant JumpShips	756	Non-Combat	In Supply	11	0	Normal (4)	13	Galatia	100%	150	80
+Federated Suns	Combat	15th Deneb Light Cavalry RCT	Deneb Light Cavalry	Federated Suns Default	Regular	Reliable	None Assigned	378	Non-Combat	In Supply	11	0	Normal (4)	13	Verlo	100%	150	80
+Federated Suns	Combat	1st Fed. Suns Armoured Cavalry	Federated Suns Armoured Cavalry	Federated Suns Default	Elite	Fanatical	Attendant JumpShips	4032	Non-Combat	In Supply	11	0	Normal (4)	31	Ziliang	100%	300	160
+Federated Suns	Combat	1st Kestrel Grenadiers	Kestrel Grenadiers	Federated Suns Default	Elite	Fanatical	Attendant JumpShips	4032	Non-Combat	In Supply	11	0	Normal (4)	31	Kestrel	100%	300	160
+Federated Suns	Combat	1st Kittery Borderers	Kittery Borderers	Federated Suns Default	Regular	Reliable	None Assigned	378	Non-Combat	In Supply	11	0	Normal (4)	13	Kittery	100%	150	80
+Federated Suns	Combat	1st New Ivaarsen Chasseurs	New Ivaarsen Chasseurs	Federated Suns Default	Elite	Fanatical	Attendant JumpShips	4032	Non-Combat	In Supply	11	0	Normal (4)	31	New Ivaarsen	100%	300	160
+Federated Suns	Combat	2nd New Ivaarsen Chausseurs	New Ivaarsen Chasseurs	Federated Suns Default	Regular	Fanatical	Attendant JumpShips	1008	Non-Combat	In Supply	11	0	Normal (4)	13	New Valencia	100%	150	80
+Federated Suns	Combat	1st Robinson Rangers	Robinson Rangers	Federated Suns Default	Veteran	Fanatical	None Assigned	1008	Non-Combat	In Supply	11	0	Normal (4)	21	Robinson	100%	225	120
+Federated Suns	Combat	2nd Robinson Rangers	Robinson Rangers	Federated Suns Default	Regular	Reliable	Attendant JumpShips	756	Non-Combat	In Supply	11	0	Normal (4)	13	Breed	100%	150	80
+Federated Suns	Combat	5th Syrtis Fusiliers RCT	Syrtis Fusiliers	Federated Suns Default	Regular	Questionable	Attendant JumpShips	504	Non-Combat	In Supply	11	0	Normal (4)	13	Kittery	100%	150	80
+Federated Suns	Combat	6th Syrtis Fusiliers RCT	Syrtis Fusiliers	Federated Suns Default	Elite	Questionable	None Assigned	1008	Non-Combat	In Supply	11	0	Normal (4)	31	New Syrtis	100%	300	160
+Federated Suns	Combat	8th Syrtis Fusiliers RCT	Syrtis Fusiliers	Federated Suns Default	Regular	Questionable	Attendant JumpShips	504	Non-Combat	In Supply	11	0	Normal (4)	13	Avigait	100%	150	80
+Federated Suns	Combat	1st NAIS Cadet Cadre	NAIS Training Cadre	Federated Suns Training Cadre	Green	Fanatical	Attendant JumpShips	144	Non-Combat	In Supply	3	0	Normal (4)	9	Exeter	100%	48	32
+Federated Suns	Combat	2nd NAIS Cadet Cadre	NAIS Training Cadre	Federated Suns Training Cadre	Green	Fanatical	None Assigned	72	Non-Combat	In Supply	3	0	Normal (4)	9	Beten Kaitos	100%	48	32
+Federated Suns	Combat	3rd NAIS Cadet Cadre	NAIS Training Cadre	Federated Suns Training Cadre	Green	Fanatical	Attendant JumpShips	144	Non-Combat	In Supply	3	0	Normal (4)	9	Tarkio	100%	48	32
+Federated Suns	Combat	1st Albion Training Cadre	Albion Training Cadre	Federated Suns Training Cadre	Green	Fanatical	Attendant JumpShips	144	Non-Combat	In Supply	3	0	Normal (4)	9	Morven	100%	48	32
+Federated Suns	Combat	2nd Albion Training Cadre	Albion Training Cadre	Federated Suns Training Cadre	Green	Fanatical	None Assigned	72	Non-Combat	In Supply	3	0	Normal (4)	9	Enchi	100%	48	32
+Federated Suns	Combat	1st Bell Training Battalion	March Training Battalions	Federated Suns Training Cadre	Green	Reliable	Attendant JumpShips	108	Non-Combat	In Supply	3	0	Normal (4)	9	Bell	100%	48	32
+Federated Suns	Combat	1st Brockton Training Battalion	March Training Battalions	Federated Suns Training Cadre	Green	Reliable	Attendant JumpShips	108	Non-Combat	In Supply	3	0	Normal (4)	9	Brockton	100%	48	32
+Federated Suns	Combat	1st Conroe Training Battalion	March Training Battalions	Federated Suns Training Cadre	Green	Reliable	Attendant JumpShips	108	Non-Combat	In Supply	3	0	Normal (4)	9	Conroe	100%	48	32
+Federated Suns	Combat	Alcyone DMM	Capellan March Militia	Federated Suns Militia	Regular	Reliable	Attendant JumpShips	468	Non-Combat	In Supply	7	0	Normal (4)	13	Alcyone	100%	118	40
+Federated Suns	Combat	Kathil CMM	Capellan March Militia	Federated Suns Militia	Green	Questionable	Attendant JumpShips	156	Non-Combat	In Supply	7	0	Normal (4)	9	Kathil	100%	94	32
+Federated Suns	Combat	Ridgebrook CMM	Capellan March Militia	Federated Suns Militia	Green	Reliable	Attendant JumpShips	234	Non-Combat	In Supply	7	0	Normal (4)	9	Ridgebrook	100%	94	32
+Federated Suns	Combat	Sidar CMM	Capellan March Militia	Federated Suns Militia	Regular	Questionable	Attendant JumpShips	312	Non-Combat	In Supply	7	0	Normal (4)	13	Schedar	100%	118	40
+Federated Suns	Combat	New Syrtis CMM	Capellan March Militia	Federated Suns Militia	Green	Questionable	Attendant JumpShips	156	Non-Combat	In Supply	7	0	Normal (4)	9	New Syrtis	100%	94	32
+Federated Suns	Combat	Valexa CMM	Capellan March Militia	Federated Suns Militia	Regular	Reliable	Attendant JumpShips	468	Non-Combat	In Supply	7	0	Normal (4)	13	Valexa	100%	118	40
+Federated Suns	Combat	Warren CMM	Capellan March Militia	Federated Suns Militia	Green	Fanatical	Attendant JumpShips	312	Non-Combat	In Supply	7	0	Normal (4)	9	Warren	100%	94	32
+Federated Suns	Combat	Addicks DMM	Draconis March Militia	Federated Suns Militia	Regular	Reliable	Attendant JumpShips	468	Non-Combat	In Supply	7	0	Normal (4)	13	Addicks	100%	118	40
+Federated Suns	Combat	Bryceland DMM	Draconis March Militia	Federated Suns Militia	Regular	Reliable	Attendant JumpShips	468	Non-Combat	In Supply	7	0	Normal (4)	13	Bryceland	100%	118	40
+Federated Suns	Combat	Bremmond DMM	Draconis March Militia	Federated Suns Militia	Regular	Reliable	Attendant JumpShips	468	Non-Combat	In Supply	7	0	Normal (4)	13	Bremond	100%	118	40
+Federated Suns	Combat	Clovis DMM	Draconis March Militia	Federated Suns Militia	Green	Reliable	Attendant JumpShips	234	Non-Combat	In Supply	7	0	Normal (4)	9	Cartago	100%	94	32
+Federated Suns	Combat	Dahar DMM	Draconis March Militia	Federated Suns Militia	Regular	Reliable	Attendant JumpShips	468	Non-Combat	In Supply	7	0	Normal (4)	13	Tishomingo	100%	118	40
+Federated Suns	Combat	Kilbourne DMM	Draconis March Militia	Federated Suns Militia	Green	Reliable	Attendant JumpShips	234	Non-Combat	In Supply	7	0	Normal (4)	9	Kilbourne	100%	94	32
+Federated Suns	Combat	Milligan DMM	Draconis March Militia	Federated Suns Militia	Green	Reliable	Attendant JumpShips	234	Non-Combat	In Supply	7	0	Normal (4)	9	Milligan	100%	94	32
+Federated Suns	Combat	Mayetta DMM	Draconis March Militia	Federated Suns Militia	Green	Reliable	Attendant JumpShips	234	Non-Combat	In Supply	7	0	Normal (4)	9	Mayetta	100%	94	32
+Federated Suns	Combat	Raman DMM	Draconis March Militia	Federated Suns Militia	Green	Reliable	Attendant JumpShips	234	Non-Combat	In Supply	7	0	Normal (4)	9	Raman	100%	94	32
+Federated Suns	Combat	Robinson DMM	Draconis March Militia	Federated Suns Militia	Green	Reliable	Attendant JumpShips	234	Non-Combat	In Supply	7	0	Normal (4)	9	Le Blanc	100%	94	32
+Federated Suns	Combat	Anjin Muerto CrMM	Crucis March Militia	Federated Suns Militia	Green	Reliable	Attendant JumpShips	234	Non-Combat	In Supply	7	0	Normal (4)	9	Anjin Muerto	100%	94	32
+Federated Suns	Combat	Islamabad CrMM	Crucis March Militia	Federated Suns Militia	Green	Reliable	Attendant JumpShips	234	Non-Combat	In Supply	7	0	Normal (4)	9	Islamabad	100%	94	32
+Federated Suns	Combat	Kestrel CrMM	Crucis March Militia	Federated Suns Militia	Regular	Reliable	Attendant JumpShips	468	Non-Combat	In Supply	7	0	Normal (4)	13	Kestrel	100%	118	40
+Federated Suns	Combat	Martlette CrMM	Crucis March Militia	Federated Suns Militia	Regular	Reliable	Attendant JumpShips	468	Non-Combat	In Supply	7	0	Normal (4)	13	Marlette	100%	118	40
+Federated Suns	Combat	New Avalon CrMM	Crucis March Militia	Federated Suns Militia	Regular	Reliable	Attendant JumpShips	468	Non-Combat	In Supply	7	0	Normal (4)	13	New Avalon	100%	118	40
+Federated Suns	Combat	Remagen CrMM	Crucis March Militia	Federated Suns Militia	Green	Reliable	Attendant JumpShips	234	Non-Combat	In Supply	7	0	Normal (4)	9	Remagen	100%	94	32
+Federated Suns	Combat	Tsamma CrMM	Crucis March Militia	Federated Suns Militia	Green	Reliable	Attendant JumpShips	234	Non-Combat	In Supply	7	0	Normal (4)	9	Tsamma	100%	94	32
+Federated Suns	Mercenary	Grim Determination	Grim Determination	Mercenary Default	Regular	Reliable	None Assigned	48	Non-Combat	In Supply	12	0	Normal (4)	13	Muskegon	100%	86	40
+Federated Suns	Mercenary	Greenburg's Godzillas	Greenburg's Godzillas	Mercenary Default	Veteran	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	21	Sterlington	100%	129	60
+Federated Suns	Mercenary	Harlock's Warriors	Harlock's Warriors	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Victoria	100%	86	40
+Federated Suns	Mercenary	Kell Hounds	Kell Hounds	Mercenary Default	Veteran	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	21	Robinson	100%	129	60
+Federated Suns	Mercenary	Lindon's Company	Lindon's Company	Mercenary Default	Veteran	Reliable	None Assigned	48	Non-Combat	In Supply	12	0	Normal (4)	21	Kennard	100%	129	60
+Federated Suns	Mercenary	Miller's Marauders	Miller's Marauders	Mercenary Default	Veteran	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	21	Layover	100%	129	60
+Federated Suns	Mercenary	Markson's Marauders	Markson's Marauders	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	New Avalon	100%	86	40
+Federated Suns	Mercenary	Redfield Renegades	Redfield Renegades	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Demeter	100%	86	40
+Federated Suns	Mercenary	Swann's Cavaliers	Swann's Cavaliers	Mercenary Default	Veteran	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	21	Quentin	100%	129	60
+Federated Suns	Mercenary	Team Banzai	Team Banzai	Mercenary Default	Elite	Fanatical	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	31	New Avalon	100%	172	80
+Federated Suns	Mercenary	Wylie's Coyotes	Wylie's Coyotes	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Bromhead	100%	86	40
+Federated Suns	Mercenary	Alpha Regiment (The Concrete Crushers)	12th Vegan Rangers	Mercenary Default	Elite	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	31	Edwards	100%	172	80
+Federated Suns	Mercenary	Beta Regiment (The Victories)	12th Vegan Rangers	Mercenary Default	Veteran	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	21	Edwards	100%	129	60
+Federated Suns	Mercenary	Gamma Regiment (Velia's Dancers)	12th Vegan Rangers	Mercenary Default	Veteran	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	21	Edwards	100%	129	60
+Federated Suns	Mercenary	Delta Regiment (Noble Nelson's Nasties)	12th Vegan Rangers	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Edwards	100%	86	40
+Federated Suns	Mercenary	1894th Ligth Horse Regiment (The Thoroughbreds)	Blue Star Irregulars	Mercenary Default	Veteran	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	21	Ozawa	100%	129	60
+Federated Suns	Mercenary	Avatars of Painful Death	Blue Star Irregulars	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Ozawa	100%	86	40
+Federated Suns	Mercenary	21st Rim World's Mech Regiment (The Drunken Surgeons)	Blue Star Irregulars	Mercenary Default	Green	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	9	Ozawa	100%	69	32
+Federated Suns	Mercenary	789th Striker Regiment(Chan's Choppers)	Crater Cobras	Mercenary Default	Veteran	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	21	Deneb Kaitos	100%	129	60
+Federated Suns	Mercenary	Westrick's Black Cobras	Crater Cobras	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Deneb Kaitos	100%	86	40
+Federated Suns	Mercenary	1st Regiment, The Dioscuri	The Dioscuri	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Vackisujfalu	100%	86	40
+Federated Suns	Mercenary	2nd Regiment, The Dioscuri	The Dioscuri	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Vackisujfalu	100%	86	40
+Federated Suns	Mercenary	Ohare's Plague of Locusts	Dismal Disinherited	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Boondock	100%	86	40
+Federated Suns	Mercenary	Ushida's Crypt Kickers	Dismal Disinherited	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Boondock	100%	86	40
+Federated Suns	Mercenary	Kelly's Hostile LAMS	Dismal Disinherited	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Boondock	100%	86	40
+Federated Suns	Mercenary	1st ELH The White Horse Regiment	Eridani Light Horse	Mercenary Default	Veteran	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	21	Colchester	100%	129	60
+Federated Suns	Mercenary	2nd ELH Winston's Moonrakers	Eridani Light Horse	Mercenary Default	Veteran	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	21	Colchester	100%	129	60
+Federated Suns	Mercenary	3rd ELH The Black Borse Regiment	Eridani Light Horse	Mercenary Default	Elite	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	31	Colchester	100%	172	80
+Federated Suns	Mercenary	Bradley's Bad Boys	Illician Lancers	Mercenary Default	Veteran	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	21	Jonzac	100%	129	60
+Federated Suns	Mercenary	Drop-and-Stomp	Illician Lancers	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Jonzac	100%	86	40
+Federated Suns	Mercenary	Janey's Lovers	Illician Lancers	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Jonzac	100%	86	40
+Federated Suns	Mercenary	Roadrunners	Illician Lancers	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Jonzac	100%	86	40
+Federated Suns	Mercenary	32nd Recon Regiment (Tessie's Sprinters)	Lexington Combat Group	Mercenary Default	Veteran	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	21	Wappingers	100%	129	60
+Federated Suns	Mercenary	Golda's Golden Hammers	Lexington Combat Group	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Wappingers	100%	86	40
+Federated Suns	Mercenary	Timpthy's Gazelles	Lexington Combat Group	Mercenary Default	Green	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	9	Wappingers	100%	69	32
+Federated Suns	Mercenary	1st Screaming Eagles	Screaming Eagles	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Skepptana	100%	86	40
+Federated Suns	Mercenary	2nd Screaming Eagles	Screaming Eagles	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Skepptana	100%	86	40
+Federated Suns	Mercenary	8th Striker Regiment (The Lazy Eights)	The Fightung Urukhai	Mercenary Default	Veteran	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	21	Pierce	100%	129	60
+Federated Suns	Mercenary	Candelli's Bar Hounds	The Fightung Urukhai	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Pierce	100%	86	40
+Federated Suns	Mercenary	Jackson's Sluggers	The Fightung Urukhai	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Pierce	100%	86	40
+Draconis Combine	Combat	Altenmarkt Militia	Altenmarkt Militia	Draconis Combine Default	Veteran	Reliable	None Assigned	828	Non-Combat	In Supply	12	0	Normal (4)	21	Outpost	100%	225	180
+Draconis Combine	Combat	1st Amphigean Light Assault Group	Amphigean Light Assault Group	Draconis Combine Default	Veteran	Reliable	Attendant JumpShips	1656	Non-Combat	In Supply	12	0	Normal (4)	21	Reisling's Planet	100%	225	180
+Draconis Combine	Combat	2nd Amphigean Light Assault Group	Amphigean Light Assault Group	Draconis Combine Default	Veteran	Reliable	Attendant JumpShips	1656	Non-Combat	In Supply	12	0	Normal (4)	21	Reisling's Planet	100%	225	180
+Draconis Combine	Combat	5th Amphigean Light Assault Group	Amphigean Light Assault Group	Draconis Combine Default	Regular	Reliable	None Assigned	414	Non-Combat	In Supply	12	0	Normal (4)	13	Harvest	100%	150	120
+Draconis Combine	Combat	2nd An Ting Legion	An Ting Legion	Draconis Combine Default	Regular	Reliable	Attendant JumpShips	828	Non-Combat	In Supply	12	0	Normal (4)	13	New Caledonia	100%	150	120
+Draconis Combine	Combat	4th An Ting Legion	An Ting Legion	Draconis Combine Default	Regular	Reliable	Attendant JumpShips	828	Non-Combat	In Supply	12	0	Normal (4)	13	Valentina	100%	150	120
+Draconis Combine	Combat	2nd Arkab Legion	Arkab Legion	Draconis Combine Default	Veteran	Reliable	None Assigned	828	Non-Combat	In Supply	12	0	Normal (4)	21	Tannil	100%	225	180
+Draconis Combine	Combat	4th Arkab Legion	Arkab Legion	Draconis Combine Default	Regular	Reliable	Attendant JumpShips	828	Non-Combat	In Supply	12	0	Normal (4)	13	Camlann	100%	150	120
+Draconis Combine	Combat	6th Arkab Legion	Arkab Legion	Draconis Combine Default	Regular	Reliable	Attendant JumpShips	828	Non-Combat	In Supply	12	0	Normal (4)	13	Arkab	100%	150	120
+Draconis Combine	Combat	2nd Benjamin Regulars	Benjamin Regulars	Draconis Combine Default	Regular	Reliable	None Assigned	414	Non-Combat	In Supply	12	0	Normal (4)	13	Kajikazawa	100%	150	120
+Draconis Combine	Combat	3rd Benjamin Regulars	Benjamin Regulars	Draconis Combine Default	Regular	Questionable	Attendant JumpShips	552	Non-Combat	In Supply	12	0	Normal (4)	13	Irurzun	100%	150	120
+Draconis Combine	Combat	6th Benjamin Regulars	Benjamin Regulars	Draconis Combine Default	Green	Reliable	Attendant JumpShips	414	Non-Combat	In Supply	12	0	Normal (4)	9	Irurzun	100%	120	96
+Draconis Combine	Combat	9th Benjamin Regulars	Benjamin Regulars	Draconis Combine Default	Veteran	Reliable	None Assigned	828	Non-Combat	In Supply	12	0	Normal (4)	21	Proserpina	100%	225	180
+Draconis Combine	Combat	11th Benjamin Regulars	Benjamin Regulars	Draconis Combine Default	Green	Reliable	Attendant JumpShips	414	Non-Combat	In Supply	12	0	Normal (4)	9	Tripoli	100%	120	96
+Draconis Combine	Combat	15th Benjamin Regulars	Benjamin Regulars	Draconis Combine Default	Green	Reliable	Attendant JumpShips	414	Non-Combat	In Supply	12	0	Normal (4)	9	Xinyang	100%	120	96
+Draconis Combine	Combat	17th Benjamin Regulars	Benjamin Regulars	Draconis Combine Default	Veteran	Reliable	None Assigned	828	Non-Combat	In Supply	12	0	Normal (4)	21	Benjamin	100%	225	180
+Draconis Combine	Combat	2nd Dieron Regulars	Dieron Regulars	Draconis Combine Default	Veteran	Questionable	Attendant JumpShips	1104	Non-Combat	In Supply	12	0	Normal (4)	21	Shionoha	100%	225	180
+Draconis Combine	Combat	3rd Dieron Regulars	Dieron Regulars	Draconis Combine Default	Regular	Reliable	Attendant JumpShips	828	Non-Combat	In Supply	12	0	Normal (4)	13	Kessel	100%	150	120
+Draconis Combine	Combat	8th Dieron Regulars	Dieron Regulars	Draconis Combine Default	Veteran	Reliable	None Assigned	828	Non-Combat	In Supply	12	0	Normal (4)	21	Al Na'ir	100%	225	180
+Draconis Combine	Combat	9th Dieron Regulars	Dieron Regulars	Draconis Combine Default	Regular	Reliable	Attendant JumpShips	828	Non-Combat	In Supply	12	0	Normal (4)	13	Cylene	100%	150	120
+Draconis Combine	Combat	12th Dieron Regulars	Dieron Regulars	Draconis Combine Default	Green	Reliable	Attendant JumpShips	414	Combat	In Supply	46	0	Normal (4)	9	Ashio	100%	120	96
+Draconis Combine	Combat	15th Dieron Regulars	Dieron Regulars	Draconis Combine Default	Regular	Reliable	None Assigned	414	Non-Combat	In Supply	12	0	Normal (4)	13	Al Na'ir	100%	150	120
+Draconis Combine	Combat	18th Dieron Regulars	Dieron Regulars	Draconis Combine Default	Elite	Reliable	Attendant JumpShips	3312	Non-Combat	In Supply	12	0	Normal (4)	31	Altair	100%	300	240
+Draconis Combine	Combat	22nd Dieron Regulars	Dieron Regulars	Draconis Combine Default	Veteran	Questionable	Attendant JumpShips	1104	Non-Combat	In Supply	12	0	Normal (4)	21	Ko	100%	225	180
+Draconis Combine	Combat	24th Dieron Regulars	Dieron Regulars	Draconis Combine Default	Green	Reliable	None Assigned	207	Non-Combat	In Supply	12	0	Normal (4)	9	Ashio	100%	120	96
+Draconis Combine	Combat	27th Dieron Regulars	Dieron Regulars	Draconis Combine Default	Regular	Reliable	Attendant JumpShips	828	Non-Combat	In Supply	12	0	Normal (4)	13	Ashio	100%	150	120
+Draconis Combine	Combat	36th Dieron Regulars	Dieron Regulars	Draconis Combine Default	Regular	Reliable	Attendant JumpShips	828	Non-Combat	In Supply	12	0	Normal (4)	13	Nirasaki	100%	150	120
+Draconis Combine	Combat	2nd Galedon Regulars	Galedon Regulars	Draconis Combine Default	Green	Reliable	None Assigned	207	Non-Combat	In Supply	12	0	Normal (4)	9	Arlington	100%	120	96
+Draconis Combine	Combat	5th Galedon Regulars	Galedon Regulars	Draconis Combine Default	Veteran	Reliable	Attendant JumpShips	1656	Non-Combat	In Supply	12	0	Normal (4)	21	New Samarkand	100%	225	180
+Draconis Combine	Combat	8th Galedon Regulars	Galedon Regulars	Draconis Combine Default	Veteran	Reliable	Attendant JumpShips	1656	Non-Combat	In Supply	12	0	Normal (4)	21	Marlowe's Rift	100%	225	180
+Draconis Combine	Combat	12th Galedon Regulars	Galedon Regulars	Draconis Combine Default	Green	Reliable	None Assigned	207	Non-Combat	In Supply	12	0	Normal (4)	9	Matsuida	100%	120	96
+Draconis Combine	Combat	16th Galedon Regulars	Galedon Regulars	Draconis Combine Default	Regular	Reliable	Attendant JumpShips	828	Non-Combat	In Supply	12	0	Normal (4)	13	Oshika	100%	150	120
+Draconis Combine	Combat	17th Galedon Regulars	Galedon Regulars	Draconis Combine Default	Green	Reliable	Attendant JumpShips	414	Non-Combat	In Supply	12	0	Normal (4)	9	Kaznejoy	100%	120	96
+Draconis Combine	Combat	19th Galedon Regulars	Galedon Regulars	Draconis Combine Default	Regular	Reliable	None Assigned	414	Non-Combat	In Supply	12	0	Normal (4)	13	Bad News	100%	150	120
+Draconis Combine	Combat	21st Galedon Regulars	Galedon Regulars	Draconis Combine Default	Regular	Questionable	Attendant JumpShips	552	Non-Combat	In Supply	12	0	Normal (4)	13	Marlowe's Rift	100%	150	120
+Draconis Combine	Combat	2nd Legion of Vega	Legion of Vega	Draconis Combine Default	Regular	Questionable	Attendant JumpShips	552	Non-Combat	In Supply	12	0	Normal (4)	13	Vega	100%	150	120
+Draconis Combine	Combat	11th Legion of Vega	Legion of Vega	Draconis Combine Default	Regular	Reliable	None Assigned	414	Non-Combat	In Supply	12	0	Normal (4)	13	Marfik	100%	150	120
+Draconis Combine	Combat	14th Legion of Vega	Legion of Vega	Draconis Combine Default	Regular	Questionable	Attendant JumpShips	552	Non-Combat	In Supply	12	0	Normal (4)	13	Vega	100%	150	120
+Draconis Combine	Combat	McGavin's Regiment, Night Stalkers	Night Stalkers	Draconis Combine Default	Veteran	Questionable	Attendant JumpShips	1104	Non-Combat	In Supply	12	0	Normal (4)	21	Basiliano	100%	225	180
+Draconis Combine	Combat	Johiro's Regiment, Night Stalkers	Night Stalkers	Draconis Combine Default	Veteran	Questionable	None Assigned	552	Non-Combat	In Supply	12	0	Normal (4)	21	Matamoras	100%	225	180
+Draconis Combine	Combat	1st Prosperina Hussars	Propserina Hussars	Draconis Combine Default	Veteran	Reliable	Attendant JumpShips	1656	Non-Combat	In Supply	12	0	Normal (4)	21	Orestes	100%	225	180
+Draconis Combine	Combat	3rd Prosperina Hussars	Propserina Hussars	Draconis Combine Default	Elite	Fanatical	None Assigned	2208	Non-Combat	In Supply	12	0	Normal (4)	31	Galedon	100%	300	240
+Draconis Combine	Combat	4th Prosperina Hussars	Propserina Hussars	Draconis Combine Default	Veteran	Reliable	Attendant JumpShips	1656	Non-Combat	In Supply	12	0	Normal (4)	21	Orestes	100%	225	180
+Draconis Combine	Combat	3rd Pesht Regulars	Pesht Regulars	Draconis Combine Default	Regular	Reliable	None Assigned	414	Non-Combat	In Supply	12	0	Normal (4)	13	Pesht	100%	150	120
+Draconis Combine	Combat	4th Pesht Regulars	Pesht Regulars	Draconis Combine Default	Green	Reliable	Attendant JumpShips	414	Non-Combat	In Supply	12	0	Normal (4)	9	Tarnby	100%	120	96
+Draconis Combine	Combat	6th Pesht Regulars	Pesht Regulars	Draconis Combine Default	Green	Reliable	None Assigned	207	Non-Combat	In Supply	12	0	Normal (4)	9	Nowhere	100%	120	96
+Draconis Combine	Combat	7th Pesht Regulars	Pesht Regulars	Draconis Combine Default	Green	Reliable	Attendant JumpShips	414	Non-Combat	In Supply	12	0	Normal (4)	9	Land's End	100%	120	96
+Draconis Combine	Combat	9th Pesht Regulars	Pesht Regulars	Draconis Combine Default	Green	Reliable	None Assigned	207	Non-Combat	In Supply	12	0	Normal (4)	9	Schwartz	100%	120	96
+Draconis Combine	Combat	10th Pesht Regulars	Pesht Regulars	Draconis Combine Default	Green	Reliable	Attendant JumpShips	414	Non-Combat	In Supply	12	0	Normal (4)	9	Gravenhage	100%	120	96
+Draconis Combine	Combat	5th Rasalhague Regulars	Rasalhague Regulars	Draconis Combine Default	Green	Reliable	None Assigned	207	Non-Combat	In Supply	12	0	Normal (4)	9	Jabuka	100%	120	96
+Draconis Combine	Combat	8th Rasalhague Regulars	Rasalhague Regulars	Draconis Combine Default	Green	Fanatical	Attendant JumpShips	552	Non-Combat	In Supply	12	0	Normal (4)	9	Rasalhague	100%	120	96
+Draconis Combine	Combat	9th Rasalhague Regulars	Rasalhague Regulars	Draconis Combine Default	Veteran	Reliable	None Assigned	828	Non-Combat	In Supply	12	0	Normal (4)	21	Hyperion	100%	225	180
+Draconis Combine	Combat	13th Rasalhague Regulars	Rasalhague Regulars	Draconis Combine Default	Green	Reliable	Attendant JumpShips	414	Non-Combat	In Supply	12	0	Normal (4)	9	Thessalonika	100%	120	96
+Draconis Combine	Combat	17th Rasalhague Regulars	Rasalhague Regulars	Draconis Combine Default	Regular	Reliable	None Assigned	414	Non-Combat	In Supply	12	0	Normal (4)	13	Kirchbach	100%	150	120
+Draconis Combine	Combat	20th Rasalhague Regulars	Rasalhague Regulars	Draconis Combine Default	Green	Reliable	Attendant JumpShips	414	Non-Combat	In Supply	12	0	Normal (4)	9	Trondheim	100%	120	96
+Draconis Combine	Combat	22nd Rasalhague Regulars	Rasalhague Regulars	Draconis Combine Default	Regular	Reliable	None Assigned	414	Non-Combat	In Supply	12	0	Normal (4)	13	Heiligendreuz	100%	150	120
+Draconis Combine	Combat	25th Rasalhague Regulars	Rasalhague Regulars	Draconis Combine Default	Green	Questionable	Attendant JumpShips	276	Non-Combat	In Supply	12	0	Normal (4)	9	Damian	100%	120	96
+Draconis Combine	Combat	1st Sun Zhang Academy Cadre	Sun Zhang Academy Cadre	Draconis Combine Default	Green	Reliable	None Assigned	207	Non-Combat	In Supply	12	0	Normal (4)	9	Weingarten	100%	120	96
+Draconis Combine	Combat	5th Sun Zhang Academy Cadre	Sun Zhang Academy Cadre	Draconis Combine Default	Green	Reliable	Attendant JumpShips	414	Non-Combat	In Supply	12	0	Normal (4)	9	Moritz	100%	120	96
+Draconis Combine	Combat	9th Sun Zhang Academy Cadre	Sun Zhang Academy Cadre	Draconis Combine Default	Green	Reliable	None Assigned	207	Non-Combat	In Supply	12	0	Normal (4)	9	Dieron	100%	120	96
+Draconis Combine	Combat	12th Sun Zhang Academy Cadre	Sun Zhang Academy Cadre	Draconis Combine Default	Green	Fanatical	Attendant JumpShips	552	Non-Combat	In Supply	12	0	Normal (4)	9	Kessel	100%	120	96
+Draconis Combine	Combat	1st Sword of Light	Sword of Light	Draconis Combine Default	Veteran	Fanatical	None Assigned	1104	Non-Combat	In Supply	12	0	Normal (4)	21	Luthien	100%	225	180
+Draconis Combine	Combat	2nd Sword of Light	Sword of Light	Draconis Combine Default	Elite	Fanatical	Attendant JumpShips	4416	Non-Combat	In Supply	12	0	Normal (4)	31	Buckminster	100%	300	240
+Draconis Combine	Combat	5th Sword of Light	Sword of Light	Draconis Combine Default	Elite	Fanatical	None Assigned	2208	Non-Combat	In Supply	12	0	Normal (4)	31	Dieron	100%	300	240
+Draconis Combine	Combat	7th Sword of Light	Sword of Light	Draconis Combine Default	Veteran	Fanatical	Attendant JumpShips	2208	Non-Combat	In Supply	12	0	Normal (4)	21	Luthien	100%	225	180
+Draconis Combine	Combat	8th Sword of Light	Sword of Light	Draconis Combine Default	Regular	Fanatical	None Assigned	552	Non-Combat	In Supply	12	0	Normal (4)	13	Delacruz	100%	150	120
+Draconis Combine	Mercenary	Brion's Legion	Brion's Legion	Mercenary Default	Regular	Questionable	None Assigned	48	Non-Combat	In Supply	12	0	Normal (4)	13	Murchison	100%	86	40
+Draconis Combine	Mercenary	Helmut's Hermits	Helmut's Hermits	Mercenary Default	Regular	Questionable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Harvest	100%	86	40
+Draconis Combine	Mercenary	Kingston Caballeros	Kingston Caballeros	Mercenary Default	Regular	Questionable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Sabik	100%	86	40
+Draconis Combine	Mercenary	Lone Star Regiment	Lone Star Regiment	Mercenary Default	Veteran	Questionable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	21	Volders	100%	129	60
+Draconis Combine	Mercenary	McGee's Cutthroats	McGee's Cutthroats	Mercenary Default	Veteran	Questionable	None Assigned	48	Non-Combat	In Supply	12	0	Normal (4)	21	Galedon	100%	129	60
+Draconis Combine	Mercenary	St. Cyr Heavy Assault Group	St. Cyr Heavy Assault Group	Mercenary Default	Veteran	Questionable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	21	Kandis	100%	129	60
+Draconis Combine	Mercenary	Tooth of Ymir	Tooth of Ymir	Mercenary Default	Regular	Questionable	None Assigned	48	Non-Combat	In Supply	12	0	Normal (4)	13	Wheel	100%	86	40
+Draconis Combine	Mercenary	Vandalay's Valkyries	Vandalay's Valkyries	Mercenary Default	Regular	Questionable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Karbala	100%	86	40
+Draconis Combine	Mercenary	Alpha Regiment	Wolf's Dragoons	Mercenary Default	Elite	Reliable	None Assigned	48	Non-Combat	In Supply	12	0	Normal (4)	31	Capra	100%	172	80
+Draconis Combine	Mercenary	Beta Regiment	Wolf's Dragoons	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Misery	100%	86	40
+Draconis Combine	Mercenary	Gamma Regiment	Wolf's Dragoons	Mercenary Default	Elite	Reliable	None Assigned	48	Non-Combat	In Supply	12	0	Normal (4)	31	Misery	100%	172	80
+Draconis Combine	Mercenary	Delta Regiment	Wolf's Dragoons	Mercenary Default	Elite	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	31	Capra	100%	172	80
+Draconis Combine	Mercenary	Epsilon Regiment	Wolf's Dragoons	Mercenary Default	Elite	Reliable	None Assigned	48	Non-Combat	In Supply	12	0	Normal (4)	31	Thestria	100%	172	80
+Draconis Combine	Mercenary	Zeta Battalion	Wolf's Dragoons	Mercenary Default	Elite	Fanatical	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	31	Capra	100%	172	80
+Draconis Combine	Mercenary	Black Widow Company	Wolf's Dragoons	Mercenary Default	Elite	Fanatical	None Assigned	48	Non-Combat	In Supply	12	0	Normal (4)	31	Capra	100%	172	80
+Lyran Commonwealth	Combat	8th Arcturan Guards	Arcturan Guards	Lyran Commonwealth Default	Green	Reliable	None Assigned	243	Non-Combat	In Supply	14	0	Normal (4)	9	Here	100%	162	64
+Lyran Commonwealth	Combat	11th Arcturan Guards	Arcturan Guards	Lyran Commonwealth Default	Green	Reliable	Attendant JumpShips	486	Non-Combat	In Supply	14	0	Normal (4)	9	Timbuktu	100%	162	64
+Lyran Commonwealth	Combat	15th Arcturan Guards	Arcturan Guards	Lyran Commonwealth Default	Regular	Questionable	Attendant JumpShips	648	Non-Combat	In Supply	14	0	Normal (4)	13	Lost	100%	202	80
+Lyran Commonwealth	Combat	17th Arcturan Guards	Arcturan Guards	Lyran Commonwealth Default	Regular	Reliable	None Assigned	486	Non-Combat	In Supply	14	0	Normal (4)	13	Wyatt	100%	202	80
+Lyran Commonwealth	Combat	19th Arcturan Guards	Arcturan Guards	Lyran Commonwealth Default	Green	Questionable	Attendant JumpShips	324	Non-Combat	In Supply	14	0	Normal (4)	9	Rasalgethi	100%	162	64
+Lyran Commonwealth	Combat	20th Arcturan Guards	Arcturan Guards	Lyran Commonwealth Default	Veteran	Reliable	Attendant JumpShips	1944	Non-Combat	In Supply	14	0	Normal (4)	21	Port Moseby	100%	303	120
+Lyran Commonwealth	Combat	23rd Arcturan Guards	Arcturan Guards	Lyran Commonwealth Default	Veteran	Reliable	None Assigned	972	Non-Combat	In Supply	14	0	Normal (4)	21	Carse	100%	303	120
+Lyran Commonwealth	Combat	24th Arcturan Guards	Arcturan Guards	Lyran Commonwealth Default	Regular	Reliable	Attendant JumpShips	972	Non-Combat	In Supply	14	0	Normal (4)	13	Dell	100%	202	80
+Lyran Commonwealth	Combat	25th Arcturan Guards	Arcturan Guards	Lyran Commonwealth Default	Regular	Reliable	Attendant JumpShips	972	Non-Combat	In Supply	14	0	Normal (4)	13	Vulcan	100%	202	80
+Lyran Commonwealth	Combat	2nd Donegal Guards	Donegal Guards	Lyran Commonwealth Default	Veteran	Reliable	None Assigned	972	Non-Combat	In Supply	14	0	Normal (4)	21	Pollux	100%	303	120
+Lyran Commonwealth	Combat	3rd Donegal Guards	Donegal Guards	Lyran Commonwealth Default	Elite	Questionable	Attendant JumpShips	2592	Non-Combat	In Supply	14	0	Normal (4)	31	Menkent	100%	404	160
+Lyran Commonwealth	Combat	4th Donegal Guards	Donegal Guards	Lyran Commonwealth Default	Veteran	Reliable	Attendant JumpShips	1944	Non-Combat	In Supply	14	0	Normal (4)	21	Chateau	100%	303	120
+Lyran Commonwealth	Combat	5th Donegal Guards	Donegal Guards	Lyran Commonwealth Default	Green	Reliable	None Assigned	243	Non-Combat	In Supply	14	0	Normal (4)	9	Phecda	100%	162	64
+Lyran Commonwealth	Combat	6th Donegal Guards	Donegal Guards	Lyran Commonwealth Default	Regular	Reliable	Attendant JumpShips	972	Non-Combat	In Supply	14	0	Normal (4)	13	Denebola	100%	202	80
+Lyran Commonwealth	Combat	7th Donegal Guards	Donegal Guards	Lyran Commonwealth Default	Regular	Reliable	Attendant JumpShips	972	Non-Combat	In Supply	14	0	Normal (4)	13	Althastan	100%	202	80
+Lyran Commonwealth	Combat	8th Donegal Guards	Donegal Guards	Lyran Commonwealth Default	Veteran	Reliable	None Assigned	972	Non-Combat	In Supply	14	0	Normal (4)	21	Sevren	100%	303	120
+Lyran Commonwealth	Combat	10th Donegal Guards	Donegal Guards	Lyran Commonwealth Default	Regular	Reliable	Attendant JumpShips	972	Non-Combat	In Supply	14	0	Normal (4)	13	Main Street	100%	202	80
+Lyran Commonwealth	Combat	11th Donegal Guards	Donegal Guards	Lyran Commonwealth Default	Green	Questionable	Attendant JumpShips	324	Non-Combat	In Supply	14	0	Normal (4)	9	New Capetown	100%	162	64
+Lyran Commonwealth	Combat	12th Donegal Guards	Donegal Guards	Lyran Commonwealth Default	Green	Reliable	None Assigned	243	Non-Combat	In Supply	14	0	Normal (4)	9	Barcelona	100%	162	64
+Lyran Commonwealth	Combat	13th Donegal Guards	Donegal Guards	Lyran Commonwealth Default	Green	Reliable	Attendant JumpShips	486	Non-Combat	In Supply	14	0	Normal (4)	9	Furillo	100%	162	64
+Lyran Commonwealth	Combat	14th Donegal Guards	Donegal Guards	Lyran Commonwealth Default	Regular	Reliable	Attendant JumpShips	972	Non-Combat	In Supply	14	0	Normal (4)	13	Coventry	100%	202	80
+Lyran Commonwealth	Combat	17th Donegal Guards	Donegal Guards	Lyran Commonwealth Default	Regular	Questionable	None Assigned	324	Non-Combat	In Supply	14	0	Normal (4)	13	Carlisle	100%	202	80
+Lyran Commonwealth	Combat	3rd Lyran Guards	Lyran Guards	Lyran Commonwealth Default	Veteran	Fanatical	Attendant JumpShips	2592	Non-Combat	In Supply	14	0	Normal (4)	21	Tharkad	100%	303	120
+Lyran Commonwealth	Combat	6th Lyran Guards	Lyran Guards	Lyran Commonwealth Default	Elite	Reliable	Attendant JumpShips	3888	Non-Combat	In Supply	14	0	Normal (4)	31	Hesperus	100%	404	160
+Lyran Commonwealth	Combat	10th Lyran Guards	Lyran Guards	Lyran Commonwealth Default	Veteran	Questionable	None Assigned	648	Non-Combat	In Supply	14	0	Normal (4)	21	Meacham	100%	303	120
+Lyran Commonwealth	Combat	11th Lyran Guards	Lyran Guards	Lyran Commonwealth Default	Elite	Reliable	Attendant JumpShips	3888	Non-Combat	In Supply	14	0	Normal (4)	31	Wyatt	100%	404	160
+Lyran Commonwealth	Combat	14th Lyran Guards	Lyran Guards	Lyran Commonwealth Default	Veteran	Reliable	Attendant JumpShips	1944	Non-Combat	In Supply	14	0	Normal (4)	21	Ford	100%	303	120
+Lyran Commonwealth	Combat	15th Lyran Guards	Lyran Guards	Lyran Commonwealth Default	Elite	Reliable	None Assigned	1944	Non-Combat	In Supply	14	0	Normal (4)	31	Hesperus	100%	404	160
+Lyran Commonwealth	Combat	19th Lyran Guards	Lyran Guards	Lyran Commonwealth Default	Veteran	Reliable	Attendant JumpShips	1944	Non-Combat	In Supply	14	0	Normal (4)	21	Alarion	100%	303	120
+Lyran Commonwealth	Combat	24th Lyran Guards	Lyran Guards	Lyran Commonwealth Default	Green	Fanatical	Attendant JumpShips	648	Non-Combat	In Supply	14	0	Normal (4)	9	Donegal	100%	162	64
+Lyran Commonwealth	Combat	26th Lyran Guards	Lyran Guards	Lyran Commonwealth Default	Veteran	Reliable	None Assigned	972	Non-Combat	In Supply	14	0	Normal (4)	21	Tamar	100%	303	120
+Lyran Commonwealth	Combat	30th Lyran Guards	Lyran Guards	Lyran Commonwealth Default	Regular	Reliable	Attendant JumpShips	972	Non-Combat	In Supply	14	0	Normal (4)	13	Icar	100%	202	80
+Lyran Commonwealth	Combat	32nd Lyran Guards	Lyran Guards	Lyran Commonwealth Default	Green	Reliable	Attendant JumpShips	486	Non-Combat	In Supply	14	0	Normal (4)	9	Solaris	100%	162	64
+Lyran Commonwealth	Combat	36th Lyran Guards	Lyran Guards	Lyran Commonwealth Default	Regular	Questionable	None Assigned	324	Non-Combat	In Supply	14	0	Normal (4)	13	Cavanaugh	100%	202	80
+Lyran Commonwealth	Combat	1st Lyran Regulars	Lyran Regulars	Lyran Commonwealth Default	Veteran	Reliable	Attendant JumpShips	1944	Non-Combat	In Supply	14	0	Normal (4)	21	Romulus	100%	303	120
+Lyran Commonwealth	Combat	3rd Lyran Regulars	Lyran Regulars	Lyran Commonwealth Default	Regular	Questionable	Attendant JumpShips	648	Non-Combat	In Supply	14	0	Normal (4)	13	Planting	100%	202	80
+Lyran Commonwealth	Combat	4th Lyran Regulars	Lyran Regulars	Lyran Commonwealth Default	Regular	Reliable	None Assigned	486	Non-Combat	In Supply	14	0	Normal (4)	13	Menkent	100%	202	80
+Lyran Commonwealth	Combat	5th Lyran Regulars	Lyran Regulars	Lyran Commonwealth Default	Regular	Questionable	Attendant JumpShips	648	Non-Combat	In Supply	14	0	Normal (4)	13	Thorin	100%	202	80
+Lyran Commonwealth	Combat	5th Lyran Regulars	Lyran Regulars	Lyran Commonwealth Default	Green	Reliable	Attendant JumpShips	486	Non-Combat	In Supply	14	0	Normal (4)	9	Gypsum	100%	162	64
+Lyran Commonwealth	Combat	7th Lyran Regulars	Lyran Regulars	Lyran Commonwealth Default	Green	Reliable	None Assigned	243	Non-Combat	In Supply	14	0	Normal (4)	9	Loric	100%	162	64
+Lyran Commonwealth	Combat	8th Lyran Regulars	Lyran Regulars	Lyran Commonwealth Default	Green	Reliable	Attendant JumpShips	486	Non-Combat	In Supply	14	0	Normal (4)	9	New India	100%	162	64
+Lyran Commonwealth	Combat	9th Lyran Regulars	Lyran Regulars	Lyran Commonwealth Default	Green	Reliable	Attendant JumpShips	486	Non-Combat	In Supply	14	0	Normal (4)	9	Cavanaugh	100%	162	64
+Lyran Commonwealth	Combat	10th Lyran Regulars	Lyran Regulars	Lyran Commonwealth Default	Regular	Reliable	None Assigned	486	Non-Combat	In Supply	14	0	Normal (4)	13	Denebola	100%	202	80
+Lyran Commonwealth	Combat	11th Lyran Regulars	Lyran Regulars	Lyran Commonwealth Default	Green	Reliable	Attendant JumpShips	486	Non-Combat	In Supply	14	0	Normal (4)	9	Australia	100%	162	64
+Lyran Commonwealth	Combat	15th Lyran Regulars	Lyran Regulars	Lyran Commonwealth Default	Regular	Reliable	Attendant JumpShips	972	Non-Combat	In Supply	14	0	Normal (4)	13	Hood	100%	202	80
+Lyran Commonwealth	Combat	1st Royal Guards	Royal Guards	Lyran Commonwealth Default	Regular	Fanatical	None Assigned	648	Non-Combat	In Supply	14	0	Normal (4)	13	Tharkad	100%	202	80
+Lyran Commonwealth	Combat	2nd Royal Guards	Royal Guards	Lyran Commonwealth Default	Regular	Fanatical	Attendant JumpShips	1296	Non-Combat	In Supply	14	0	Normal (4)	13	Tharkad	100%	202	80
+Lyran Commonwealth	Combat	3rd Royal Guards	Royal Guards	Lyran Commonwealth Default	Elite	Fanatical	Attendant JumpShips	5184	Non-Combat	In Supply	14	0	Normal (4)	31	Coventry	100%	404	160
+Lyran Commonwealth	Combat	4th Skye Rangers	Sky Rangers	Lyran Commonwealth Default	Elite	Questionable	None Assigned	1296	Non-Combat	In Supply	14	0	Normal (4)	31	Ryde	100%	404	160
+Lyran Commonwealth	Combat	10th Skye Rangers	Sky Rangers	Lyran Commonwealth Default	Veteran	Questionable	Attendant JumpShips	1296	Non-Combat	In Supply	14	0	Normal (4)	21	Solaris	100%	303	120
+Lyran Commonwealth	Combat	17th Skye Rangers	Sky Rangers	Lyran Commonwealth Default	Elite	Questionable	Attendant JumpShips	2592	Non-Combat	In Supply	14	0	Normal (4)	31	Summer	100%	404	160
+Lyran Commonwealth	Combat	22nd Skye Rangers	Sky Rangers	Lyran Commonwealth Default	Green	Reliable	None Assigned	243	Non-Combat	In Supply	14	0	Normal (4)	9	Fatima	100%	162	64
+Lyran Commonwealth	Combat	Winfield's Brigade	Winfield's Brigade	Lyran Commonwealth Default	Elite	Reliable	Attendant JumpShips	3888	Non-Combat	In Supply	14	0	Normal (4)	31	Winfield	100%	404	160
+Lyran Commonwealth	Mercenary	1st Regiment, 12 Star Guards	12th Star Guards	Mercenary Default	Veteran	Reliable	None Assigned	48	Non-Combat	In Supply	12	0	Normal (4)	21	Tau Ceti	100%	129	60
+Lyran Commonwealth	Mercenary	2nd Regiment, 12 Star Guards	12th Star Guards	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Corridan	100%	86	40
+Lyran Commonwealth	Mercenary	3rd Regiment, 12 Star Guards	12th Star Guards	Mercenary Default	Veteran	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	21	Lyons	100%	129	60
+Lyran Commonwealth	Mercenary	7th Regiment, 12 Star Guards	12th Star Guards	Mercenary Default	Green	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	9	Lyons	100%	69	32
+Lyran Commonwealth	Mercenary	Always Faithful	Always Faithful	Mercenary Default	Regular	Reliable	None Assigned	48	Non-Combat	In Supply	12	0	Normal (4)	13	Alarion	100%	86	40
+Lyran Commonwealth	Mercenary	Bad Dream	Bad Dream	Mercenary Default	Veteran	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	21	Newtown Square	100%	129	60
+Lyran Commonwealth	Mercenary	Barrett's Fusiliers	Barrett's Fusiliers	Mercenary Default	Veteran	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	21	Skondia	100%	129	60
+Lyran Commonwealth	Mercenary	Blackhearts	Blackhearts	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Anywhere	100%	86	40
+Lyran Commonwealth	Mercenary	Cranston Snord's Irregulars	Cranston Snord's Irregulars	Mercenary Default	Veteran	Fanatical	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	21	Clinton	100%	129	60
+Lyran Commonwealth	Mercenary	Dragon's Breath	Dragon's Breath	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Winter	100%	86	40
+Lyran Commonwealth	Mercenary	Filthy Lucre	Filthy Lucre	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Bolan	100%	86	40
+Lyran Commonwealth	Mercenary	Gregg's Long Striders	Gregg's Long Striders	Mercenary Default	Green	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	9	Ford	100%	69	32
+Lyran Commonwealth	Mercenary	1st Grave Walkers	Grave Walkers	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Bone-Norman	100%	86	40
+Lyran Commonwealth	Mercenary	2nd Grave Walkers	Grave Walkers	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Bone-Norman	100%	86	40
+Lyran Commonwealth	Mercenary	Hansen's Roughriders	Hansen's Roughriders	Mercenary Default	Veteran	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	21	Suk	100%	129	60
+Lyran Commonwealth	Mercenary	The Hsien Hotheads	The Hsien Hotheads	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	New Kyoto	100%	86	40
+Lyran Commonwealth	Mercenary	1st Knights of St. Cameron	Knights of St. Cameron	Mercenary Default	Green	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	9	Buena	100%	69	32
+Lyran Commonwealth	Mercenary	2nd Knights of St. Cameron	Knights of St. Cameron	Mercenary Default	Green	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	9	Buena	100%	69	32
+Lyran Commonwealth	Mercenary	Mobile Fire	Mobile Fire	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Canal	100%	86	40
+Lyran Commonwealth	Mercenary	1st Narhal's Raiders	Narhal's Raiders	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Poulsbo	100%	86	40
+Lyran Commonwealth	Mercenary	2nd Narhal's Raiders	Narhal's Raiders	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Poulsbo	100%	86	40
+Lyran Commonwealth	Mercenary	Richard's Panzer Brigade	Richard's Panzer Brigade	Mercenary Default	Veteran	Fanatical	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	21	Tharkad	100%	129	60
+Lyran Commonwealth	Mercenary	Stealthy Tigers	Stealthy Tigers	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Loric	100%	86	40
+Lyran Commonwealth	Mercenary	Waco Rangers	Waco Rangers	Mercenary Default	Veteran	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	21	Bessarabia	100%	129	60
+Free Worlds League	Combat	1st Atrean Dragoons	Atrean Dragoons	Free Worlds League Default	Regular	Fanatical	None Assigned	576	Non-Combat	In Supply	12	0	Normal (4)	13	McKenna	100%	168	80
+Free Worlds League	Combat	11th Atrean Dragoons	Atrean Dragoons	Free Worlds League Default	Green	Fanatical	Attendant JumpShips	576	Non-Combat	In Supply	12	0	Normal (4)	9	Matheran	100%	134	64
+Free Worlds League	Combat	12th Atrean Dragoons	Atrean Dragoons	Free Worlds League Default	Veteran	Fanatical	Attendant JumpShips	2304	Non-Combat	In Supply	12	0	Normal (4)	21	Vanra	100%	252	120
+Free Worlds League	Combat	Atrean Hussars	Atrean Hussars	Free Worlds League Default	Regular	Reliable	None Assigned	432	Non-Combat	In Supply	12	0	Normal (4)	13	Ling	100%	168	80
+Free Worlds League	Combat	1st Defenders of Andurien	Defenders of Andurien	Free Worlds League Default	Veteran	Questionable	Attendant JumpShips	1152	Non-Combat	In Supply	12	0	Normal (4)	21	Andurien	100%	252	120
+Free Worlds League	Combat	3rd Defenders of Andurien	Defenders of Andurien	Free Worlds League Default	Regular	Questionable	Attendant JumpShips	576	Non-Combat	In Supply	12	0	Normal (4)	13	Shiro	100%	168	80
+Free Worlds League	Combat	4th Defenders of Andurien	Defenders of Andurien	Free Worlds League Default	Veteran	Questionable	None Assigned	576	Non-Combat	In Supply	12	0	Normal (4)	21	Scarborough	100%	252	120
+Free Worlds League	Combat	5th Defenders of Andurien	Defenders of Andurien	Free Worlds League Default	Regular	Questionable	Attendant JumpShips	576	Non-Combat	In Supply	12	0	Normal (4)	13	Nestor	100%	168	80
+Free Worlds League	Combat	6th Defenders of Andurien	Defenders of Andurien	Free Worlds League Default	Veteran	Questionable	Attendant JumpShips	1152	Non-Combat	In Supply	12	0	Normal (4)	21	Andurien	100%	252	120
+Free Worlds League	Combat	Fusiliers of Oriente 1st Brigade	Fusiliers of Oriente	Free Worlds League Default	Elite	Reliable	None Assigned	1728	Non-Combat	In Supply	12	0	Normal (4)	31	Griffith	100%	336	160
+Free Worlds League	Combat	Fusiliers of Oriente 2nd Brigade	Fusiliers of Oriente	Free Worlds League Default	Veteran	Reliable	Attendant JumpShips	1728	Non-Combat	In Supply	12	0	Normal (4)	21	Maxwell	100%	252	120
+Free Worlds League	Combat	Fusiliers of Oriente 3rd Brigade	Fusiliers of Oriente	Free Worlds League Default	Veteran	Reliable	Attendant JumpShips	1728	Non-Combat	In Supply	12	0	Normal (4)	21	Promised Land	100%	252	120
+Free Worlds League	Combat	Fusiliers of Oriente 4th Brigade	Fusiliers of Oriente	Free Worlds League Default	Regular	Questionable	None Assigned	288	Non-Combat	In Supply	12	0	Normal (4)	13	Oriente	100%	168	80
+Free Worlds League	Combat	Fusiliers of Oriente 5th Brigade	Fusiliers of Oriente	Free Worlds League Default	Regular	Reliable	Attendant JumpShips	864	Non-Combat	In Supply	12	0	Normal (4)	13	Sheridan	100%	168	80
+Free Worlds League	Combat	Fusiliers of Oriente Ducal Guard	Fusiliers of Oriente	Free Worlds League Default	Elite	Fanatical	Attendant JumpShips	4608	Non-Combat	In Supply	12	0	Normal (4)	31	Tamarind	100%	336	160
+Free Worlds League	Combat	1st Free Worlds Guards	Free Worlds Guards	Free Worlds League Default	Elite	Fanatical	None Assigned	2304	Non-Combat	In Supply	12	0	Normal (4)	31	Berenson	100%	336	160
+Free Worlds League	Combat	2nd Free Worlds Guards	Free Worlds Guards	Free Worlds League Default	Veteran	Fanatical	Attendant JumpShips	2304	Non-Combat	In Supply	12	0	Normal (4)	21	Bella	100%	252	120
+Free Worlds League	Combat	3rd Free Worlds Guards	Free Worlds Guards	Free Worlds League Default	Regular	Fanatical	Attendant JumpShips	1152	Non-Combat	In Supply	12	0	Normal (4)	13	Zion	100%	168	80
+Free Worlds League	Combat	Marik Guard	Marik Guard	Free Worlds League Default	Elite	Fanatical	None Assigned	2304	Non-Combat	In Supply	12	0	Normal (4)	31	Van Diemen	100%	336	160
+Free Worlds League	Combat	1st Marik Militia	Marik Militia	Free Worlds League Default	Veteran	Fanatical	Attendant JumpShips	2304	Non-Combat	In Supply	12	0	Normal (4)	21	Fletcher	100%	252	120
+Free Worlds League	Combat	2nd Marik Militia	Marik Militia	Free Worlds League Default	Green	Reliable	Attendant JumpShips	432	Non-Combat	In Supply	12	0	Normal (4)	9	Hassad	100%	134	64
+Free Worlds League	Combat	4th Marik Militia	Marik Militia	Free Worlds League Default	Green	Reliable	None Assigned	216	Non-Combat	In Supply	12	0	Normal (4)	9	Park Place	100%	134	64
+Free Worlds League	Combat	5th Marik Militia	Marik Militia	Free Worlds League Default	Regular	Reliable	Attendant JumpShips	864	Non-Combat	In Supply	12	0	Normal (4)	13	Les Halles	100%	168	80
+Free Worlds League	Combat	6th Marik Militia	Marik Militia	Free Worlds League Default	Veteran	Fanatical	Attendant JumpShips	2304	Non-Combat	In Supply	12	0	Normal (4)	21	Holt	100%	252	120
+Free Worlds League	Combat	9th Marik Militia	Marik Militia	Free Worlds League Default	Regular	Reliable	None Assigned	432	Non-Combat	In Supply	12	0	Normal (4)	13	Carbonis	100%	168	80
+Free Worlds League	Combat	10th Marik Militia	Marik Militia	Free Worlds League Default	Veteran	Reliable	Attendant JumpShips	1728	Non-Combat	In Supply	12	0	Normal (4)	21	Bernardo	100%	252	120
+Free Worlds League	Combat	13th Marik Militia	Marik Militia	Free Worlds League Default	Regular	Questionable	Attendant JumpShips	576	Non-Combat	In Supply	12	0	Normal (4)	13	Irian	100%	168	80
+Free Worlds League	Combat	15th Marik Militia	Marik Militia	Free Worlds League Default	Regular	Reliable	None Assigned	432	Non-Combat	In Supply	12	0	Normal (4)	13	Wasat	100%	168	80
+Free Worlds League	Combat	18th Marik Militia	Marik Militia	Free Worlds League Default	Green	Questionable	Attendant JumpShips	288	Non-Combat	In Supply	12	0	Normal (4)	9	Oliver	100%	134	64
+Free Worlds League	Combat	20th Marik Militia	Marik Militia	Free Worlds League Default	Regular	Reliable	Attendant JumpShips	864	Non-Combat	In Supply	12	0	Normal (4)	13	Concord	100%	168	80
+Free Worlds League	Combat	23rd Marik Militia	Marik Militia	Free Worlds League Default	Green	Questionable	None Assigned	144	Non-Combat	In Supply	12	0	Normal (4)	9	Merak	100%	134	64
+Free Worlds League	Combat	25th Marik Militia	Marik Militia	Free Worlds League Default	Green	Reliable	Attendant JumpShips	432	Non-Combat	In Supply	12	0	Normal (4)	9	Dieudonné	100%	134	64
+Free Worlds League	Combat	30th Marik Militia	Marik Militia	Free Worlds League Default	Regular	Fanatical	Attendant JumpShips	1152	Non-Combat	In Supply	12	0	Normal (4)	13	Wing	100%	168	80
+Free Worlds League	Combat	31st Marik Militia	Marik Militia	Free Worlds League Default	Green	Reliable	None Assigned	216	Non-Combat	In Supply	12	0	Normal (4)	9	August	100%	134	64
+Free Worlds League	Combat	1st Orloff Grenadiers	Orloff Grenadiers	Free Worlds League Default	Regular	Reliable	Attendant JumpShips	864	Non-Combat	In Supply	12	0	Normal (4)	13	Vanra	100%	168	80
+Free Worlds League	Combat	6th Orloff Grenadiers	Orloff Grenadiers	Free Worlds League Default	Veteran	Fanatical	Attendant JumpShips	2304	Non-Combat	In Supply	12	0	Normal (4)	21	Cerillos	100%	252	120
+Free Worlds League	Combat	8th Orloff Grenadiers	Orloff Grenadiers	Free Worlds League Default	Regular	Reliable	None Assigned	432	Non-Combat	In Supply	12	0	Normal (4)	13	Lesnovo	100%	168	80
+Free Worlds League	Combat	1st Oriente Hussars	Oriente Hussars	Free Worlds League Default	Veteran	Reliable	Attendant JumpShips	1728	Non-Combat	In Supply	12	0	Normal (4)	21	Trellisane	100%	252	120
+Free Worlds League	Combat	2nd Oriente Hussars	Oriente Hussars	Free Worlds League Default	Regular	Reliable	Attendant JumpShips	864	Non-Combat	In Supply	12	0	Normal (4)	13	Wallacia	100%	168	80
+Free Worlds League	Combat	3rd Oriente Hussars	Oriente Hussars	Free Worlds League Default	Green	Reliable	None Assigned	216	Non-Combat	In Supply	12	0	Normal (4)	9	Ipswich	100%	134	64
+Free Worlds League	Combat	4th Oriente Hussars	Oriente Hussars	Free Worlds League Default	Regular	Questionable	Attendant JumpShips	576	Non-Combat	In Supply	12	0	Normal (4)	13	Atreus	100%	168	80
+Free Worlds League	Combat	5th Oriente Hussars	Oriente Hussars	Free Worlds League Default	Green	Reliable	Attendant JumpShips	432	Non-Combat	In Supply	12	0	Normal (4)	9	Sierra	100%	134	64
+Free Worlds League	Combat	Iron Guards	Protectorate Guards	Free Worlds League Default	Regular	Fanatical	None Assigned	576	Non-Combat	In Supply	12	0	Normal (4)	13	Xi Ursae Majoris	100%	168	80
+Free Worlds League	Combat	Steel Guards	Protectorate Guards	Free Worlds League Default	Green	Reliable	Attendant JumpShips	432	Non-Combat	In Supply	12	0	Normal (4)	9	Kosciusko	100%	134	64
+Free Worlds League	Combat	1st Regulan Hussars	Regulan Hussars	Free Worlds League Default	Elite	Questionable	Attendant JumpShips	2304	Non-Combat	In Supply	12	0	Normal (4)	31	Regulus	100%	336	160
+Free Worlds League	Combat	2nd Regulan Hussars	Regulan Hussars	Free Worlds League Default	Regular	Questionable	None Assigned	288	Non-Combat	In Supply	12	0	Normal (4)	13	Avior	100%	168	80
+Free Worlds League	Combat	4th Regulan Hussars	Regulan Hussars	Free Worlds League Default	Veteran	Questionable	Attendant JumpShips	1152	Non-Combat	In Supply	12	0	Normal (4)	21	Tiber	100%	252	120
+Free Worlds League	Combat	5th Regulan Hussars	Regulan Hussars	Free Worlds League Default	Veteran	Questionable	Attendant JumpShips	1152	Non-Combat	In Supply	12	0	Normal (4)	21	Chertan	100%	252	120
+Free Worlds League	Combat	9th Regulan Hussars	Regulan Hussars	Free Worlds League Default	Green	Questionable	None Assigned	144	Non-Combat	In Supply	12	0	Normal (4)	9	McAffe	100%	134	64
+Free Worlds League	Combat	1st Sirian Lancers	Sirian Lancers	Free Worlds League Default	Green	Questionable	Attendant JumpShips	288	Non-Combat	In Supply	12	0	Normal (4)	9	Pollux	100%	134	64
+Free Worlds League	Combat	2nd Sirian Lancers	Sirian Lancers	Free Worlds League Default	Regular	Questionable	Attendant JumpShips	576	Non-Combat	In Supply	12	0	Normal (4)	13	Procyon	100%	168	80
+Free Worlds League	Combat	3rd Sirian Lancers	Sirian Lancers	Free Worlds League Default	Green	Questionable	None Assigned	144	Non-Combat	In Supply	12	0	Normal (4)	9	Megrez	100%	134	64
+Free Worlds League	Combat	Stewart Home Guards	Stewart Dragoons	Free Worlds League Default	Veteran	Reliable	Attendant JumpShips	1728	Non-Combat	In Supply	12	0	Normal (4)	21	Stewart	100%	252	120
+Free Worlds League	Combat	Stewart Juggernauts	Stewart Dragoons	Free Worlds League Default	Regular	Reliable	Attendant JumpShips	864	Non-Combat	In Supply	12	0	Normal (4)	13	Payvand	100%	168	80
+Free Worlds League	Combat	Falcons	Silverhawk Irregulars	Free Worlds League Default	Green	Questionable	None Assigned	144	Non-Combat	In Supply	12	0	Normal (4)	9	Callison	100%	134	64
+Free Worlds League	Combat	Gryphons	Silverhawk Irregulars	Free Worlds League Default	Regular	Questionable	Attendant JumpShips	576	Non-Combat	In Supply	12	0	Normal (4)	13	Kalidasa	100%	168	80
+Free Worlds League	Mercenary	21st Centauri Lancers	21st Centauri Lancers	Mercenary Default	Elite	Reliable	None Assigned	48	Non-Combat	In Supply	12	0	Normal (4)	31	Nestor	100%	172	80
+Free Worlds League	Mercenary	Clifton's Rangers	Clifton's Rangers	Mercenary Default	Green	Questionable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	9	Epsilon	100%	69	32
+Free Worlds League	Mercenary	Carson's Renegades	Carson's Renegades	Mercenary Default	Regular	Questionable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Oliver	100%	86	40
+Free Worlds League	Mercenary	Caeser's Cohort	Caeser's Cohort	Mercenary Default	Green	Questionable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	9	Epsilon	100%	69	32
+Free Worlds League	Mercenary	Fuchida's Fusiliers	Fuchida's Fusiliers	Mercenary Default	Regular	Questionable	None Assigned	48	Non-Combat	In Supply	12	0	Normal (4)	13	Cascade	100%	86	40
+Free Worlds League	Mercenary	Head Hunters	Head Hunters	Mercenary Default	Green	Questionable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	9	August	100%	69	32
+Free Worlds League	Mercenary	Langendorf Lancers	Langendorf Lancers	Mercenary Default	Regular	Questionable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Colfax	100%	86	40
+Free Worlds League	Mercenary	Martian Curiassiers	Martian Curiassiers	Mercenary Default	Green	Questionable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	9	Concord	100%	69	32
+Free Worlds League	Mercenary	Smithson's Chinese Bandits	Smithson's Chinese Bandits	Mercenary Default	Veteran	Reliable	None Assigned	48	Non-Combat	In Supply	12	0	Normal (4)	21	Zosma	100%	129	60
+Capellan Confederation	Combat	Red Lancers	Capellan Hussars	Capellan Default	Elite	Fanatical	None Assigned	2208	Non-Combat	In Supply	12	0	Normal (4)	31	Sian	100%	300	160
+Capellan Confederation	Combat	Protectorate Guard	Capellan Hussars	Capellan Default	Regular	Fanatical	Attendant JumpShips	1104	Non-Combat	In Supply	12	0	Normal (4)	13	Sian	100%	150	80
+Capellan Confederation	Combat	Blandfors's Grenadiers	Capellan Hussars	Capellan Default	Veteran	Fanatical	Attendant JumpShips	2208	Non-Combat	In Supply	12	0	Normal (4)	21	Capella	100%	225	120
+Capellan Confederation	Combat	Marion's Highlanders	Northwind Highlanders	Capellan Default	Veteran	Reliable	Attendant JumpShips	1656	Non-Combat	In Supply	12	0	Normal (4)	21	Chisholm	100%	225	120
+Capellan Confederation	Combat	McCormack's Fusiliers	Northwind Highlanders	Capellan Default	Veteran	Reliable	Attendant JumpShips	1656	Non-Combat	In Supply	12	0	Normal (4)	21	Chisholm	100%	225	120
+Capellan Confederation	Combat	1st Keanry Highlanders	Northwind Highlanders	Capellan Default	Veteran	Reliable	Attendant JumpShips	1656	Non-Combat	In Supply	12	0	Normal (4)	21	Highspire	100%	225	120
+Capellan Confederation	Combat	2nd Kearny Highlanders	Northwind Highlanders	Capellan Default	Veteran	Reliable	Attendant JumpShips	1656	Non-Combat	In Supply	12	0	Normal (4)	21	Jonathan	100%	225	120
+Capellan Confederation	Combat	1st Ariana Fusiliers	Chesterton Reserves	Capellan Default	Veteran	Reliable	Attendant JumpShips	1656	Non-Combat	In Supply	12	0	Normal (4)	21	Algol	100%	225	120
+Capellan Confederation	Combat	2nd Ariana Fusiliers	Chesterton Reserves	Capellan Default	Regular	Reliable	Attendant JumpShips	828	Non-Combat	In Supply	12	0	Normal (4)	13	Tikonov	100%	150	80
+Capellan Confederation	Combat	Ariana Grenadiers	Chesterton Reserves	Capellan Default	Elite	Fanatical	Attendant JumpShips	4416	Non-Combat	In Supply	12	0	Normal (4)	31	Tikonov	100%	300	160
+Capellan Confederation	Combat	1st Chesterton Voltigeurs	Chesterton Reserves	Capellan Default	Regular	Reliable	Attendant JumpShips	828	Non-Combat	In Supply	12	0	Normal (4)	13	Tikonov	100%	150	80
+Capellan Confederation	Combat	2nd Chesterton Voltigeurs	Chesterton Reserves	Capellan Default	Regular	Reliable	Attendant JumpShips	828	Non-Combat	In Supply	12	0	Normal (4)	13	Tikonov	100%	150	80
+Capellan Confederation	Combat	3rd Chesterton Voltigeurs	Chesterton Reserves	Capellan Default	Regular	Reliable	Attendant JumpShips	828	Non-Combat	In Supply	12	0	Normal (4)	13	Tikonov	100%	150	80
+Capellan Confederation	Combat	Hamilton's Highlanders	Chesterton Reserves	Capellan Default	Elite	Reliable	Attendant JumpShips	3312	Non-Combat	In Supply	12	0	Normal (4)	31	Tikonov	100%	300	160
+Capellan Confederation	Combat	Lothar's Fusiliers	Chesterton Reserves	Capellan Default	Regular	Reliable	Attendant JumpShips	828	Non-Combat	In Supply	12	0	Normal (4)	13	Epsilon Eridani	100%	150	80
+Capellan Confederation	Combat	Sung's Cuirassiers	Chesterton Reserves	Capellan Default	Regular	Reliable	Attendant JumpShips	828	Non-Combat	In Supply	12	0	Normal (4)	13	Wei	100%	150	80
+Capellan Confederation	Combat	Kingston's Legionnaires	Chesterton Reserves	Capellan Default	Regular	Reliable	Attendant JumpShips	828	Non-Combat	In Supply	12	0	Normal (4)	13	Heligoland	100%	150	80
+Capellan Confederation	Combat	Trimaldi's Secutors	Liao Reserves	Capellan Default	Regular	Reliable	Attendant JumpShips	828	Non-Combat	In Supply	12	0	Normal (4)	13	Zurich	100%	150	80
+Capellan Confederation	Combat	Vincent's Commandos	Liao Reserves	Capellan Default	Regular	Reliable	Attendant JumpShips	828	Non-Combat	In Supply	12	0	Normal (4)	13	Cynthiana	100%	150	80
+Capellan Confederation	Combat	Blackwind Lancers	Blackwind Lancers	Capellan Default	Veteran	Fanatical	Attendant JumpShips	2208	Non-Combat	In Supply	12	0	Normal (4)	21	St. Andre	100%	225	120
+Capellan Confederation	Combat	1st St. Ives Lancers	St. Ives Armored Cavalry	Capellan Default	Veteran	Reliable	Attendant JumpShips	1656	Non-Combat	In Supply	12	0	Normal (4)	21	St. Ives	100%	225	120
+Capellan Confederation	Combat	2nd St. Ives Lancers	St. Ives Armored Cavalry	Capellan Default	Regular	Reliable	Attendant JumpShips	828	Non-Combat	In Supply	12	0	Normal (4)	13	St. Ives	100%	150	80
+Capellan Confederation	Combat	St Ives Cheveau Legers	St. Ives Armored Cavalry	Capellan Default	Veteran	Reliable	Attendant JumpShips	1656	Non-Combat	In Supply	12	0	Normal (4)	21	Warlock	100%	225	120
+Capellan Confederation	Combat	Justinia's Cuirassiers	St. Ives Armored Cavalry	Capellan Default	Elite	Fanatical	Attendant JumpShips	4416	Non-Combat	In Supply	12	0	Normal (4)	31	St. Andre	100%	300	160
+Capellan Confederation	Combat	Devon's Armored Infantry	St. Ives Armored Cavalry	Capellan Default	Regular	Reliable	Attendant JumpShips	828	Non-Combat	In Supply	12	0	Normal (4)	13	Brighton	100%	150	80
+Capellan Confederation	Combat	Stapelton's Iron Hand	St. Ives Armored Cavalry	Capellan Default	Regular	Reliable	Attendant JumpShips	828	Non-Combat	In Supply	12	0	Normal (4)	13	Teng	100%	150	80
+Capellan Confederation	Combat	Chochrane's Goliaths	St. Ives Armored Cavalry	Capellan Default	Regular	Reliable	Attendant JumpShips	828	Non-Combat	In Supply	12	0	Normal (4)	13	St. Andre	100%	150	80
+Capellan Confederation	Combat	Shepard's Mounted Fusiliers	St. Ives Armored Cavalry	Capellan Default	Regular	Reliable	Attendant JumpShips	828	Non-Combat	In Supply	12	0	Normal (4)	13	Texlos	100%	150	80
+Capellan Confederation	Combat	1st Confederation Reserve Cavalry	Confederation Reserve Cavalry	Capellan Default	Veteran	Reliable	Attendant JumpShips	1656	Non-Combat	In Supply	12	0	Normal (4)	21	Cynthiana	100%	225	120
+Capellan Confederation	Combat	2nd Confederation Reserve Cavalry	Confederation Reserve Cavalry	Capellan Default	Regular	Reliable	Attendant JumpShips	828	Non-Combat	In Supply	12	0	Normal (4)	13	Palos	100%	150	80
+Capellan Confederation	Combat	3rd Confederation Reserve Cavalry	Confederation Reserve Cavalry	Capellan Default	Regular	Reliable	Attendant JumpShips	828	Non-Combat	In Supply	12	0	Normal (4)	13	Sirius	100%	150	80
+Capellan Confederation	Combat	4th Confederation Reserve Cavalry	Confederation Reserve Cavalry	Capellan Default	Regular	Reliable	Attendant JumpShips	828	Non-Combat	In Supply	12	0	Normal (4)	13	New Canton	100%	150	80
+Capellan Confederation	Combat	5th Confederation Reserve Cavalry	Confederation Reserve Cavalry	Capellan Default	Green	Questionable	Attendant JumpShips	276	Non-Combat	In Supply	12	0	Normal (4)	9	New Sarna	100%	120	64
+Capellan Confederation	Combat	Preston's Lancers	Preston's Lancers	Capellan Default	Veteran	Reliable	Attendant JumpShips	1656	Non-Combat	In Supply	12	0	Normal (4)	21	New Sarna	100%	225	120
+Capellan Confederation	Combat	Justine's Grenadiers	Capellan Reserves	Capellan Default	Veteran	Reliable	Attendant JumpShips	1656	Non-Combat	In Supply	12	0	Normal (4)	21	Chisholm	100%	225	120
+Capellan Confederation	Combat	Stapelton's Grenadiers	Capellan Reserves	Capellan Default	Regular	Reliable	Attendant JumpShips	828	Non-Combat	In Supply	12	0	Normal (4)	13	Wazan	100%	150	80
+Capellan Confederation	Combat	Kamakura's Hussars	Sian Reserves	Capellan Default	Regular	Reliable	Attendant JumpShips	828	Non-Combat	In Supply	12	0	Normal (4)	13	Sakhalin	100%	150	80
+Capellan Confederation	Combat	Ishara's Grenadiers	Sian Reserves	Capellan Default	Regular	Reliable	Attendant JumpShips	828	Non-Combat	In Supply	12	0	Normal (4)	13	Buenos Aires	100%	150	80
+Capellan Confederation	Combat	Hurloc's Hussars	Sian Reserves	Capellan Default	Regular	Reliable	Attendant JumpShips	828	Non-Combat	In Supply	12	0	Normal (4)	13	Remshield	100%	150	80
+Capellan Confederation	Combat	Freemont's Cuirassiers	Sian Reserves	Capellan Default	Regular	Reliable	Attendant JumpShips	828	Non-Combat	In Supply	12	0	Normal (4)	13	Hunan	100%	150	80
+Capellan Confederation	Combat	McCrimmon's Light Cavalry	McCrimmon's Light Cavalry	Capellan Default	Regular	Reliable	Attendant JumpShips	828	Non-Combat	In Supply	12	0	Normal (4)	13	Ningpo	100%	150	80
+Capellan Confederation	Combat	McGregor's Armored Scouts	McGregor's Armoured Scouts	Capellan Default	Regular	Reliable	Attendant JumpShips	828	Non-Combat	In Supply	12	0	Normal (4)	13	Alrescha	100%	150	80
+Capellan Confederation	Combat	Kinkaid's Rangers	Tikonov Reserves	Capellan Default	Regular	Reliable	Attendant JumpShips	828	Non-Combat	In Supply	12	0	Normal (4)	13	Repulse	100%	150	80
+Capellan Confederation	Combat	Kerr's Intruders	Tikonov Reserves	Capellan Default	Regular	Reliable	Attendant JumpShips	828	Non-Combat	In Supply	12	0	Normal (4)	13	Ronel	100%	150	80
+Capellan Confederation	Combat	Death Commandos	Death Commandos	Capellan Default	Elite	Fanatical	Attendant JumpShips	4416	Non-Combat	In Supply	12	0	Normal (4)	31	Grand Base	100%	300	160
+Capellan Confederation	Combat	Warrior House Imarra	Warrior Houses	Capellan Default	Veteran	Fanatical	Attendant JumpShips	2208	Non-Combat	In Supply	12	0	Normal (4)	21	Sian	100%	225	120
+Capellan Confederation	Combat	Warrior House Kamata	Warrior Houses	Capellan Default	Veteran	Fanatical	Attendant JumpShips	2208	Non-Combat	In Supply	12	0	Normal (4)	21	Betelgeuse	100%	225	120
+Capellan Confederation	Combat	Warrior House Hiritsu	Warrior Houses	Capellan Default	Veteran	Fanatical	Attendant JumpShips	2208	Non-Combat	In Supply	12	0	Normal (4)	21	Tigress	100%	225	120
+Capellan Confederation	Combat	Warrior House LuSann	Warrior Houses	Capellan Default	Veteran	Reliable	Attendant JumpShips	1656	Non-Combat	In Supply	12	0	Normal (4)	21	Cynthiana	100%	225	120
+Capellan Confederation	Combat	Warrior House Daidachi	Warrior Houses	Capellan Default	Veteran	Reliable	Attendant JumpShips	1656	Non-Combat	In Supply	12	0	Normal (4)	21	Drozan	100%	225	120
+Capellan Confederation	Combat	Warrior House Fujita	Warrior Houses	Capellan Default	Veteran	Fanatical	Attendant JumpShips	2208	Non-Combat	In Supply	12	0	Normal (4)	21	Grand Base	100%	225	120
+Capellan Confederation	Combat	Warrior House Matsukai	Warrior Houses	Capellan Default	Veteran	Reliable	Attendant JumpShips	1656	Non-Combat	In Supply	12	0	Normal (4)	21	Bithinia	100%	225	120
+Capellan Confederation	Combat	Warrior House Ijori	Warrior Houses	Capellan Default	Veteran	Reliable	Attendant JumpShips	1656	Non-Combat	In Supply	12	0	Normal (4)	21	Aldebaran	100%	225	120
+Capellan Confederation	Mercenary	15th Dracon	15th Dracon	Mercenary Default	Regular	Reliable	None Assigned	48	Non-Combat	In Supply	12	0	Normal (4)	13	Bellatrix	100%	86	40
+Capellan Confederation	Mercenary	4th Tau Ceti Rangers	4th Tau Ceti Rangers	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Tikonov	100%	86	40
+Capellan Confederation	Mercenary	Ambermarle's Highlanders	Ambermarle's Highlanders	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Xieng Khouang	100%	86	40
+Capellan Confederation	Mercenary	Bullard's Armored Cavalry	Bullard's Armored Cavalry	Mercenary Default	Green	Questionable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	9	Zanzibar	100%	69	32
+Capellan Confederation	Mercenary	1st New Hessen Irregulars	Hampton's Hessens	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	New Hessen	100%	86	40
+Capellan Confederation	Mercenary	2nd New Hessen Irregulars	Hampton's Hessens	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	New Hessen	100%	86	40
+Capellan Confederation	Mercenary	New Hessen Armored Scouts	Hampton's Hessens	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Westerhand	100%	86	40
+Capellan Confederation	Mercenary	Lockhardt's Ironsides	Lockhardt's Ironsides	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Ito	100%	86	40
+Capellan Confederation	Mercenary	Laurel's Legion	Laurel's Legion	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Tigress	100%	86	40
+Capellan Confederation	Mercenary	The Nightriders	McCarron's Armoured Cavalry	Mercenary Default	Elite	Fanatical	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	31	Menke	100%	172	80
+Capellan Confederation	Mercenary	Barton's Regiment	McCarron's Armoured Cavalry	Mercenary Default	Elite	Fanatical	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	31	Menke	100%	172	80
+Capellan Confederation	Mercenary	The Wild Ones	McCarron's Armoured Cavalry	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Menke	100%	86	40
+Capellan Confederation	Mercenary	Leo's Demons	McCarron's Armoured Cavalry	Mercenary Default	Veteran	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	21	Menke	100%	129	60
+Capellan Confederation	Mercenary	Rob's Renegades	McCarron's Armoured Cavalry	Mercenary Default	Veteran	Fanatical	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	21	Menke	100%	129	60
+Capellan Confederation	Mercenary	Marishigama's Legionnaires	Marishigama's Legionnaires	Mercenary Default	Veteran	Questionable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	21	Holloway	100%	129	60
+Capellan Confederation	Mercenary	Rivaldi's Hussars	Rivaldi's Hussars	Mercenary Default	Green	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	9	Betelgeuse	100%	69	32
+Capellan Confederation	Mercenary	St. Cyr's Grenadiers	St. Cyr's Grenadiers	Mercenary Default	Green	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	9	New Roland	100%	69	32
+Taurian Concordat	Combat	Taurian Guard	Taurian Guard Corps	Taurian Concordat Default	Veteran	Fanatical	Attendant JumpShips	2016	Non-Combat	In Supply	11	0	Normal (4)	21	Hyades Cluster	100%	225	120
+Taurian Concordat	Combat	Taurian Velites	Taurian Guard Corps	Taurian Concordat Default	Veteran	Reliable	Attendant JumpShips	1512	Non-Combat	In Supply	11	0	Normal (4)	21	Taurus	100%	225	120
+Taurian Concordat	Combat	Concordat Commandos	Taurian Guard Corps	Taurian Concordat Default	Veteran	Reliable	Attendant JumpShips	1512	Non-Combat	In Supply	11	0	Normal (4)	21	Taurus	100%	225	120
+Taurian Concordat	Combat	Concordat Jaegers	Taurian I Corps	Taurian Concordat Default	Veteran	Reliable	Attendant JumpShips	1512	Non-Combat	In Supply	11	0	Normal (4)	21	New Vandenburg	100%	225	120
+Taurian Concordat	Combat	Red Chasseurs	Taurian I Corps	Taurian Concordat Default	Regular	Reliable	Attendant JumpShips	756	Non-Combat	In Supply	11	0	Normal (4)	13	Landmark	100%	150	80
+Taurian Concordat	Combat	Concordat Cuirassiers	Taurian II Corps	Taurian Concordat Default	Veteran	Reliable	Attendant JumpShips	1512	Non-Combat	In Supply	11	0	Normal (4)	21	Organo	100%	225	120
+Taurian Concordat	Combat	Hyades Light Infantry	Taurian II Corps	Taurian Concordat Default	Regular	Reliable	Attendant JumpShips	756	Non-Combat	In Supply	11	0	Normal (4)	13	Jamestown	100%	150	80
+Taurian Concordat	Combat	Pleiades Hussars	Taurian III Corps	Taurian Concordat Default	Regular	Reliable	Attendant JumpShips	756	Non-Combat	In Supply	11	0	Normal (4)	13	New Ganymede	100%	150	80
+Taurian Concordat	Combat	Taurian Lancers	Taurian III Corps	Taurian Concordat Default	Green	Reliable	None Assigned	189	Non-Combat	In Supply	11	0	Normal (4)	9	Norman's World	100%	120	64
+Taurian Concordat	Mercenary	Bannockburn's Bandits	Bannockburn's Bandits	Mercenary Default	Regular	Reliable	None Assigned	48	Non-Combat	In Supply	12	0	Normal (4)	13	MacLeod's Land	100%	86	40
+Taurian Concordat	Mercenary	Gordon's Armored Cavalry	Gordon's Armored Cavalry	Mercenary Default	Veteran	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	21	Grossbach	100%	129	60
+Taurian Concordat	Mercenary	Longwood's Bluecoats	Longwood's Bluecoats	Mercenary Default	Veteran	Questionable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	21	Perdition	100%	129	60
+Magistracy of Canopus	Combat	Raventhir's Iron Hand	Magistracy Royal Guards	Magistracy of Canopus Default	Veteran	Fanatical	None Assigned	912	Non-Combat	In Supply	10	0	Normal (4)	21	Canopus	100%	225	60
+Magistracy of Canopus	Combat	Canopian Cuirassiers	Magistracy Royal Guards	Magistracy of Canopus Default	Veteran	Fanatical	Attendant JumpShips	1824	Non-Combat	In Supply	10	0	Normal (4)	21	Canopus	100%	225	60
+Magistracy of Canopus	Combat	1st Canopian Light Horse	Chasseeurs à Cheval	Magistracy of Canopus Default	Regular	Reliable	Attendant JumpShips	684	Non-Combat	In Supply	10	0	Normal (4)	13	Megrez	100%	150	40
+Magistracy of Canopus	Combat	2nd Canopian Light Horse	Chasseeurs à Cheval	Magistracy of Canopus Default	Regular	Reliable	None Assigned	342	Non-Combat	In Supply	10	0	Normal (4)	13	Fanardir	100%	150	40
+Magistracy of Canopus	Combat	1st Canopian Fusiliers	Canopian Fusiliers	Magistracy of Canopus Default	Regular	Reliable	Attendant JumpShips	684	Non-Combat	In Supply	10	0	Normal (4)	13	Lindenmarle	100%	150	40
+Magistracy of Canopus	Combat	2nd Canopian Fusiliers	Canopian Fusiliers	Magistracy of Canopus Default	Green	Reliable	Attendant JumpShips	342	Non-Combat	In Supply	10	0	Normal (4)	9	Lindenmarle	100%	120	32
+Magistracy of Canopus	Combat	3rd Canopian Fusiliers	Canopian Fusiliers	Magistracy of Canopus Default	Green	Questionable	None Assigned	114	Non-Combat	In Supply	10	0	Normal (4)	9	Marantha	100%	120	32
+Magistracy of Canopus	Combat	Cassandra's Volunteers	Cassandra's Volunteers	Magistracy of Canopus Default	Regular	Reliable	Attendant JumpShips	684	Non-Combat	In Supply	10	0	Normal (4)	13	Canopus	100%	150	40
+Magistracy of Canopus	Mercenary	Ramilie's Raiders	Ramilie's Raiders	Mercenary Default	Elite	Fanatical	None Assigned	48	Non-Combat	In Supply	12	0	Normal (4)	31	Thurrock	100%	172	80
+Magistracy of Canopus	Mercenary	Canopian Highlanders	Canopian Highlanders	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Brixtana	100%	86	40
+Magistracy of Canopus	Mercenary	Harcourt's Destructors	Harcourt's Destructors	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Luxen	100%	86	40
+Magistracy of Canopus	Mercenary	Hudsenn's Red Devils	Hudsenn's Red Devils	Mercenary Default	Regular	Reliable	Attendant JumpShips	48	Non-Combat	In Supply	12	0	Normal (4)	13	Canopus	100%	86	40
+Outworlds Alliance	Combat	Alliance Borderers	Alliance Borderers	Outworlds Alliance Armor	Regular	Reliable	Attendant JumpShips	180	Non-Combat	In Supply	3	0	Normal (4)	13	Ramora	100%	26	0
+Outworlds Alliance	Combat	Alliance Grenadiers	Alliance Grenadiers	Outworlds Alliance Mech	Regular	Fanatical	Attendant JumpShips	240	Non-Combat	In Supply	3	0	Normal (4)	13	Sevon	100%	66	0
+Outworlds Alliance	Combat	Avellar Guards	Avellar Guards	Outworlds Alliance Mech	Regular	Fanatical	Attendant JumpShips	240	Non-Combat	In Supply	3	0	Normal (4)	13	Alpheratz	100%	66	0
+Outworlds Alliance	Combat	1st Air Regiment	1st Air Regiment	Outworlds Alliance Air Wing	Regular	Reliable	Attendant JumpShips	72	Non-Combat	In Supply	1	0	Normal (4)	13	Alpheratz	100%	0	40
+Outworlds Alliance	Combat	2nd Air Regiment	2nd Air Regiment	Outworlds Alliance Air Wing	Regular	Reliable	Attendant JumpShips	72	Non-Combat	In Supply	1	0	Normal (4)	13	Mitchella	100%	0	40
+Outworlds Alliance	Combat	3rd Air Regiment	3rd Air Regiment	Outworlds Alliance Air Wing	Regular	Reliable	Attendant JumpShips	72	Non-Combat	In Supply	1	0	Normal (4)	13	Morthac	100%	0	40
+Outworlds Alliance	Combat	4th Air Regiment	4th Air Regiment	Outworlds Alliance Air Wing	Regular	Reliable	Attendant JumpShips	72	Non-Combat	In Supply	1	0	Normal (4)	13	Lushann	100%	0	40
+Outworlds Alliance	Combat	5th Air Regiment	5th Air Regiment	Outworlds Alliance Air Wing	Regular	Reliable	Attendant JumpShips	72	Non-Combat	In Supply	1	0	Normal (4)	13	Loparri	100%	0	40

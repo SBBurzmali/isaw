@@ -1,0 +1,15 @@
+Faction	Template Name	Mech Regiments				Aerospace Wings			Armor Regiments				Infantry Regiments	Artillery Battalions
+		L	M	H	A	L	M	H	L	M	H	A		
+Outworlds Alliance	Outworlds Alliance Mech		1										1	
+Outworlds Alliance	Outworlds Alliance Air Wing						1							
+Outworlds Alliance	Outworlds Alliance Armor									1			1	1
+Magistracy of Canopus	Magistracy of Canopus Default		1				1			3			5	1
+Taurian Concordat	Taurian Concordat Default		1				2			3			5	1
+Capellan Confederation	Capellan Default		1				2			3			5	2
+Free Worlds League	Free Worlds League Default		1				2			3			8	1
+Lyran Commonwealth	Lyran Commonwealth Default		1				2			5			7	1
+Draconis Combine	Draconis Combine Default		1				3			3			5	1
+Federated Suns	Federated Suns Default		1				2			3			5	1
+Federated Suns	Federated Suns Militia		1				1			2			3	
+Federated Suns	Federated Suns Training Cadre		1				1							
+Mercenary	Mercenary Default		1				1			1			1	1
